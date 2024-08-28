@@ -1,0 +1,1677 @@
+Worker 1 node_ID at row 1 matches UAVNode ID at rows: 435
+Worker 1 node_ID at row 2 matches UAVNode ID at rows: 368
+Worker 1 node_ID at row 3 matches UAVNode ID at rows: 302
+Worker 1 node_ID at row 4 matches UAVNode ID at rows: 446
+Worker 1 node_ID at row 5 matches UAVNode ID at rows: 294
+Worker 1 node_ID at row 6 matches UAVNode ID at rows: 355
+Worker 1 node_ID at row 10 matches UAVNode ID at rows: 448
+Worker 1 node_ID at row 11 matches UAVNode ID at rows: 447
+Worker 1 node_ID at row 12 matches UAVNode ID at rows: 436
+Worker 1 node_ID at row 13 matches UAVNode ID at rows: 445
+Worker 2 node_ID at row 1 matches UAVNode ID at rows: 259
+Worker 2 node_ID at row 2 matches UAVNode ID at rows: 396
+Worker 2 node_ID at row 4 matches UAVNode ID at rows: 424
+Worker 2 node_ID at row 5 matches UAVNode ID at rows: 249
+Worker 2 node_ID at row 6 matches UAVNode ID at rows: 280
+Worker 2 node_ID at row 7 matches UAVNode ID at rows: 400
+Worker 2 node_ID at row 8 matches UAVNode ID at rows: 263
+Worker 2 node_ID at row 9 matches UAVNode ID at rows: 418
+Worker 2 node_ID at row 10 matches UAVNode ID at rows: 252
+Worker 2 node_ID at row 11 matches UAVNode ID at rows: 211
+Worker 2 node_ID at row 13 matches UAVNode ID at rows: 203
+Worker 2 node_ID at row 14 matches UAVNode ID at rows: 406
+Worker 3 node_ID at row 5 matches UAVNode ID at rows: 404
+Worker 3 node_ID at row 8 matches UAVNode ID at rows: 258
+Worker 3 node_ID at row 10 matches UAVNode ID at rows: 316
+Worker 3 node_ID at row 11 matches UAVNode ID at rows: 425
+Worker 3 node_ID at row 12 matches UAVNode ID at rows: 265
+Worker 3 node_ID at row 14 matches UAVNode ID at rows: 279
+Worker 4 node_ID at row 2 matches UAVNode ID at rows: 285
+Worker 4 node_ID at row 3 matches UAVNode ID at rows: 411
+Worker 4 node_ID at row 6 matches UAVNode ID at rows: 413
+Worker 4 node_ID at row 7 matches UAVNode ID at rows: 279
+Worker 4 node_ID at row 9 matches UAVNode ID at rows: 263
+Worker 4 node_ID at row 14 matches UAVNode ID at rows: 258
+Worker 5 node_ID at row 5 matches UAVNode ID at rows: 395
+Worker 5 node_ID at row 7 matches UAVNode ID at rows: 324
+Worker 5 node_ID at row 8 matches UAVNode ID at rows: 420
+Worker 5 node_ID at row 10 matches UAVNode ID at rows: 405
+Worker 6 node_ID at row 1 matches UAVNode ID at rows: 55
+Worker 6 node_ID at row 2 matches UAVNode ID at rows: 68
+Worker 6 node_ID at row 4 matches UAVNode ID at rows: 271
+Worker 6 node_ID at row 5 matches UAVNode ID at rows: 53
+Worker 6 node_ID at row 6 matches UAVNode ID at rows: 63
+Worker 6 node_ID at row 7 matches UAVNode ID at rows: 49
+Worker 6 node_ID at row 8 matches UAVNode ID at rows: 74
+Worker 6 node_ID at row 9 matches UAVNode ID at rows: 283
+Worker 6 node_ID at row 12 matches UAVNode ID at rows: 69
+Worker 7 node_ID at row 6 matches UAVNode ID at rows: 78
+Worker 7 node_ID at row 7 matches UAVNode ID at rows: 86
+Worker 7 node_ID at row 12 matches UAVNode ID at rows: 90
+Worker 8 node_ID at row 3 matches UAVNode ID at rows: 248
+Worker 8 node_ID at row 4 matches UAVNode ID at rows: 238
+Worker 8 node_ID at row 5 matches UAVNode ID at rows: 240
+Worker 8 node_ID at row 6 matches UAVNode ID at rows: 8
+Worker 8 node_ID at row 7 matches UAVNode ID at rows: 14
+Worker 8 node_ID at row 8 matches UAVNode ID at rows: 235
+Worker 8 node_ID at row 9 matches UAVNode ID at rows: 237
+Worker 8 node_ID at row 10 matches UAVNode ID at rows: 7
+Worker 8 node_ID at row 11 matches UAVNode ID at rows: 222
+Worker 8 node_ID at row 12 matches UAVNode ID at rows: 223
+Worker 8 node_ID at row 13 matches UAVNode ID at rows: 17
+Worker 8 node_ID at row 14 matches UAVNode ID at rows: 13
+Worker 9 node_ID at row 1 matches UAVNode ID at rows: 52
+Worker 9 node_ID at row 2 matches UAVNode ID at rows: 342
+Worker 9 node_ID at row 3 matches UAVNode ID at rows: 1
+Worker 9 node_ID at row 4 matches UAVNode ID at rows: 71
+Worker 9 node_ID at row 11 matches UAVNode ID at rows: 74
+Worker 9 node_ID at row 12 matches UAVNode ID at rows: 69
+Worker 9 node_ID at row 13 matches UAVNode ID at rows: 64
+Worker 9 node_ID at row 14 matches UAVNode ID at rows: 12
+Worker 10 node_ID at row 8 matches UAVNode ID at rows: 300
+Worker 10 node_ID at row 10 matches UAVNode ID at rows: 304
+Worker 10 node_ID at row 11 matches UAVNode ID at rows: 290
+Worker 10 node_ID at row 12 matches UAVNode ID at rows: 288
+Worker 11 node_ID at row 1 matches UAVNode ID at rows: 219
+Worker 11 node_ID at row 2 matches UAVNode ID at rows: 235
+Worker 11 node_ID at row 5 matches UAVNode ID at rows: 223
+Worker 11 node_ID at row 13 matches UAVNode ID at rows: 224
+Worker 11 node_ID at row 14 matches UAVNode ID at rows: 222
+Worker 12 node_ID at row 1 matches UAVNode ID at rows: 270
+Worker 12 node_ID at row 2 matches UAVNode ID at rows: 427
+Worker 12 node_ID at row 6 matches UAVNode ID at rows: 391
+Worker 12 node_ID at row 7 matches UAVNode ID at rows: 402
+Worker 12 node_ID at row 8 matches UAVNode ID at rows: 209
+Worker 12 node_ID at row 9 matches UAVNode ID at rows: 412
+Worker 12 node_ID at row 10 matches UAVNode ID at rows: 417
+Worker 12 node_ID at row 11 matches UAVNode ID at rows: 280
+Worker 12 node_ID at row 12 matches UAVNode ID at rows: 415
+Worker 12 node_ID at row 13 matches UAVNode ID at rows: 272
+Worker 12 node_ID at row 14 matches UAVNode ID at rows: 410
+Worker 13 node_ID at row 1 matches UAVNode ID at rows: 144
+Worker 13 node_ID at row 2 matches UAVNode ID at rows: 127
+Worker 13 node_ID at row 3 matches UAVNode ID at rows: 385
+Worker 13 node_ID at row 4 matches UAVNode ID at rows: 143
+Worker 13 node_ID at row 5 matches UAVNode ID at rows: 384
+Worker 13 node_ID at row 6 matches UAVNode ID at rows: 141
+Worker 13 node_ID at row 8 matches UAVNode ID at rows: 139
+Worker 13 node_ID at row 9 matches UAVNode ID at rows: 148
+Worker 13 node_ID at row 10 matches UAVNode ID at rows: 382
+Worker 13 node_ID at row 11 matches UAVNode ID at rows: 147
+Worker 13 node_ID at row 12 matches UAVNode ID at rows: 131
+Worker 13 node_ID at row 13 matches UAVNode ID at rows: 146
+Worker 13 node_ID at row 14 matches UAVNode ID at rows: 380
+Worker 13 node_ID at row 15 matches UAVNode ID at rows: 378
+Worker 14 node_ID at row 11 matches UAVNode ID at rows: 425
+Worker 15 node_ID at row 2 matches UAVNode ID at rows: 181
+Worker 15 node_ID at row 4 matches UAVNode ID at rows: 188
+Worker 15 node_ID at row 7 matches UAVNode ID at rows: 170
+Worker 15 node_ID at row 9 matches UAVNode ID at rows: 190
+Worker 16 node_ID at row 4 matches UAVNode ID at rows: 323
+Worker 16 node_ID at row 7 matches UAVNode ID at rows: 317
+Worker 16 node_ID at row 8 matches UAVNode ID at rows: 326
+Worker 16 node_ID at row 9 matches UAVNode ID at rows: 312
+Worker 16 node_ID at row 10 matches UAVNode ID at rows: 328
+Worker 16 node_ID at row 11 matches UAVNode ID at rows: 309
+Worker 16 node_ID at row 12 matches UAVNode ID at rows: 314
+Worker 16 node_ID at row 15 matches UAVNode ID at rows: 311
+Worker 17 node_ID at row 1 matches UAVNode ID at rows: 464
+Worker 17 node_ID at row 2 matches UAVNode ID at rows: 115
+Worker 17 node_ID at row 3 matches UAVNode ID at rows: 491
+Worker 17 node_ID at row 4 matches UAVNode ID at rows: 340
+Worker 17 node_ID at row 5 matches UAVNode ID at rows: 347
+Worker 17 node_ID at row 6 matches UAVNode ID at rows: 151
+Worker 17 node_ID at row 7 matches UAVNode ID at rows: 502
+Worker 17 node_ID at row 8 matches UAVNode ID at rows: 495
+Worker 17 node_ID at row 9 matches UAVNode ID at rows: 482
+Worker 17 node_ID at row 10 matches UAVNode ID at rows: 493
+Worker 17 node_ID at row 12 matches UAVNode ID at rows: 104
+Worker 17 node_ID at row 13 matches UAVNode ID at rows: 487
+Worker 17 node_ID at row 14 matches UAVNode ID at rows: 485
+Worker 17 node_ID at row 15 matches UAVNode ID at rows: 160
+Worker 18 node_ID at row 7 matches UAVNode ID at rows: 277
+Worker 18 node_ID at row 11 matches UAVNode ID at rows: 168
+Worker 18 node_ID at row 14 matches UAVNode ID at rows: 192
+Worker 19 node_ID at row 7 matches UAVNode ID at rows: 434
+Worker 19 node_ID at row 9 matches UAVNode ID at rows: 77
+Worker 19 node_ID at row 12 matches UAVNode ID at rows: 96
+Worker 19 node_ID at row 13 matches UAVNode ID at rows: 89
+Worker 19 node_ID at row 15 matches UAVNode ID at rows: 88
+Worker 20 node_ID at row 1 matches UAVNode ID at rows: 297
+Worker 20 node_ID at row 2 matches UAVNode ID at rows: 287
+Worker 20 node_ID at row 3 matches UAVNode ID at rows: 385
+Worker 20 node_ID at row 4 matches UAVNode ID at rows: 381
+Worker 20 node_ID at row 10 matches UAVNode ID at rows: 298
+Worker 20 node_ID at row 12 matches UAVNode ID at rows: 304
+Worker 20 node_ID at row 13 matches UAVNode ID at rows: 306
+Worker 20 node_ID at row 14 matches UAVNode ID at rows: 292
+Worker 21 node_ID at row 7 matches UAVNode ID at rows: 74
+Worker 23 node_ID at row 3 matches UAVNode ID at rows: 293
+Worker 23 node_ID at row 4 matches UAVNode ID at rows: 433
+Worker 23 node_ID at row 6 matches UAVNode ID at rows: 437
+Worker 23 node_ID at row 7 matches UAVNode ID at rows: 98
+Worker 23 node_ID at row 9 matches UAVNode ID at rows: 299
+Worker 23 node_ID at row 10 matches UAVNode ID at rows: 373
+Worker 23 node_ID at row 11 matches UAVNode ID at rows: 302
+Worker 23 node_ID at row 12 matches UAVNode ID at rows: 368
+Worker 23 node_ID at row 13 matches UAVNode ID at rows: 84
+Worker 23 node_ID at row 14 matches UAVNode ID at rows: 298
+Worker 24 node_ID at row 1 matches UAVNode ID at rows: 226
+Worker 24 node_ID at row 2 matches UAVNode ID at rows: 223
+Worker 24 node_ID at row 3 matches UAVNode ID at rows: 1
+Worker 24 node_ID at row 4 matches UAVNode ID at rows: 7
+Worker 24 node_ID at row 5 matches UAVNode ID at rows: 237
+Worker 24 node_ID at row 7 matches UAVNode ID at rows: 247
+Worker 24 node_ID at row 8 matches UAVNode ID at rows: 14
+Worker 24 node_ID at row 9 matches UAVNode ID at rows: 245
+Worker 24 node_ID at row 10 matches UAVNode ID at rows: 13
+Worker 24 node_ID at row 11 matches UAVNode ID at rows: 19
+Worker 24 node_ID at row 12 matches UAVNode ID at rows: 4
+Worker 24 node_ID at row 13 matches UAVNode ID at rows: 239
+Worker 25 node_ID at row 1 matches UAVNode ID at rows: 296
+Worker 25 node_ID at row 2 matches UAVNode ID at rows: 305
+Worker 25 node_ID at row 3 matches UAVNode ID at rows: 381
+Worker 25 node_ID at row 4 matches UAVNode ID at rows: 386
+Worker 25 node_ID at row 5 matches UAVNode ID at rows: 135
+Worker 25 node_ID at row 6 matches UAVNode ID at rows: 380
+Worker 25 node_ID at row 7 matches UAVNode ID at rows: 387
+Worker 25 node_ID at row 8 matches UAVNode ID at rows: 384
+Worker 25 node_ID at row 10 matches UAVNode ID at rows: 388
+Worker 25 node_ID at row 11 matches UAVNode ID at rows: 287
+Worker 25 node_ID at row 12 matches UAVNode ID at rows: 306
+Worker 25 node_ID at row 13 matches UAVNode ID at rows: 131
+Worker 25 node_ID at row 14 matches UAVNode ID at rows: 304
+Worker 27 node_ID at row 1 matches UAVNode ID at rows: 204
+Worker 27 node_ID at row 2 matches UAVNode ID at rows: 472
+Worker 27 node_ID at row 3 matches UAVNode ID at rows: 282
+Worker 27 node_ID at row 4 matches UAVNode ID at rows: 450
+Worker 27 node_ID at row 6 matches UAVNode ID at rows: 276
+Worker 27 node_ID at row 7 matches UAVNode ID at rows: 210
+Worker 27 node_ID at row 8 matches UAVNode ID at rows: 259
+Worker 27 node_ID at row 9 matches UAVNode ID at rows: 458
+Worker 27 node_ID at row 10 matches UAVNode ID at rows: 281
+Worker 27 node_ID at row 11 matches UAVNode ID at rows: 461
+Worker 27 node_ID at row 12 matches UAVNode ID at rows: 471
+Worker 27 node_ID at row 13 matches UAVNode ID at rows: 347
+Worker 27 node_ID at row 14 matches UAVNode ID at rows: 459
+Worker 27 node_ID at row 15 matches UAVNode ID at rows: 469
+Worker 28 node_ID at row 1 matches UAVNode ID at rows: 80
+Worker 28 node_ID at row 7 matches UAVNode ID at rows: 91
+Worker 28 node_ID at row 9 matches UAVNode ID at rows: 99
+Worker 28 node_ID at row 15 matches UAVNode ID at rows: 89
+Worker 29 node_ID at row 1 matches UAVNode ID at rows: 145
+Worker 29 node_ID at row 2 matches UAVNode ID at rows: 140
+Worker 29 node_ID at row 4 matches UAVNode ID at rows: 116
+Worker 29 node_ID at row 6 matches UAVNode ID at rows: 483
+Worker 29 node_ID at row 8 matches UAVNode ID at rows: 477
+Worker 29 node_ID at row 9 matches UAVNode ID at rows: 146
+Worker 29 node_ID at row 11 matches UAVNode ID at rows: 355
+Worker 29 node_ID at row 12 matches UAVNode ID at rows: 105
+Worker 29 node_ID at row 14 matches UAVNode ID at rows: 353
+Worker 30 node_ID at row 6 matches UAVNode ID at rows: 423
+Worker 30 node_ID at row 10 matches UAVNode ID at rows: 422
+Worker 31 node_ID at row 1 matches UAVNode ID at rows: 331
+Worker 33 node_ID at row 1 matches UAVNode ID at rows: 244
+Worker 33 node_ID at row 2 matches UAVNode ID at rows: 160
+Worker 33 node_ID at row 3 matches UAVNode ID at rows: 233
+Worker 33 node_ID at row 4 matches UAVNode ID at rows: 226
+Worker 33 node_ID at row 5 matches UAVNode ID at rows: 221
+Worker 33 node_ID at row 6 matches UAVNode ID at rows: 246
+Worker 33 node_ID at row 7 matches UAVNode ID at rows: 123
+Worker 33 node_ID at row 8 matches UAVNode ID at rows: 237
+Worker 33 node_ID at row 9 matches UAVNode ID at rows: 126
+Worker 33 node_ID at row 10 matches UAVNode ID at rows: 232
+Worker 33 node_ID at row 11 matches UAVNode ID at rows: 230
+Worker 33 node_ID at row 12 matches UAVNode ID at rows: 104
+Worker 33 node_ID at row 13 matches UAVNode ID at rows: 241
+Worker 33 node_ID at row 14 matches UAVNode ID at rows: 222
+Worker 33 node_ID at row 15 matches UAVNode ID at rows: 243
+Worker 34 node_ID at row 1 matches UAVNode ID at rows: 270
+Worker 34 node_ID at row 2 matches UAVNode ID at rows: 214
+Worker 34 node_ID at row 3 matches UAVNode ID at rows: 72
+Worker 34 node_ID at row 4 matches UAVNode ID at rows: 457
+Worker 34 node_ID at row 5 matches UAVNode ID at rows: 456
+Worker 34 node_ID at row 6 matches UAVNode ID at rows: 268
+Worker 34 node_ID at row 7 matches UAVNode ID at rows: 452
+Worker 34 node_ID at row 8 matches UAVNode ID at rows: 458
+Worker 34 node_ID at row 9 matches UAVNode ID at rows: 469
+Worker 34 node_ID at row 10 matches UAVNode ID at rows: 472
+Worker 34 node_ID at row 11 matches UAVNode ID at rows: 157
+Worker 34 node_ID at row 12 matches UAVNode ID at rows: 56
+Worker 34 node_ID at row 13 matches UAVNode ID at rows: 343
+Worker 34 node_ID at row 14 matches UAVNode ID at rows: 272
+Worker 34 node_ID at row 15 matches UAVNode ID at rows: 347
+Worker 35 node_ID at row 3 matches UAVNode ID at rows: 109
+Worker 35 node_ID at row 5 matches UAVNode ID at rows: 126
+Worker 35 node_ID at row 6 matches UAVNode ID at rows: 119
+Worker 35 node_ID at row 8 matches UAVNode ID at rows: 104
+Worker 35 node_ID at row 9 matches UAVNode ID at rows: 117
+Worker 35 node_ID at row 13 matches UAVNode ID at rows: 124
+Worker 35 node_ID at row 15 matches UAVNode ID at rows: 112
+Worker 36 node_ID at row 1 matches UAVNode ID at rows: 315
+Worker 37 node_ID at row 1 matches UAVNode ID at rows: 195
+Worker 37 node_ID at row 2 matches UAVNode ID at rows: 165
+Worker 37 node_ID at row 3 matches UAVNode ID at rows: 23
+Worker 37 node_ID at row 4 matches UAVNode ID at rows: 194
+Worker 37 node_ID at row 5 matches UAVNode ID at rows: 187
+Worker 37 node_ID at row 6 matches UAVNode ID at rows: 193
+Worker 37 node_ID at row 7 matches UAVNode ID at rows: 27
+Worker 37 node_ID at row 8 matches UAVNode ID at rows: 181
+Worker 37 node_ID at row 9 matches UAVNode ID at rows: 170
+Worker 37 node_ID at row 10 matches UAVNode ID at rows: 171
+Worker 37 node_ID at row 11 matches UAVNode ID at rows: 164
+Worker 37 node_ID at row 12 matches UAVNode ID at rows: 185
+Worker 37 node_ID at row 13 matches UAVNode ID at rows: 166
+Worker 37 node_ID at row 14 matches UAVNode ID at rows: 183
+Worker 38 node_ID at row 1 matches UAVNode ID at rows: 406
+Worker 38 node_ID at row 2 matches UAVNode ID at rows: 197
+Worker 38 node_ID at row 3 matches UAVNode ID at rows: 402
+Worker 38 node_ID at row 4 matches UAVNode ID at rows: 390
+Worker 38 node_ID at row 5 matches UAVNode ID at rows: 420
+Worker 38 node_ID at row 8 matches UAVNode ID at rows: 395
+Worker 38 node_ID at row 11 matches UAVNode ID at rows: 281
+Worker 38 node_ID at row 12 matches UAVNode ID at rows: 264
+Worker 39 node_ID at row 10 matches UAVNode ID at rows: 73
+Worker 41 node_ID at row 2 matches UAVNode ID at rows: 435
+Worker 41 node_ID at row 10 matches UAVNode ID at rows: 301
+Worker 41 node_ID at row 12 matches UAVNode ID at rows: 446
+Worker 41 node_ID at row 14 matches UAVNode ID at rows: 295
+Worker 42 node_ID at row 1 matches UAVNode ID at rows: 185
+Worker 42 node_ID at row 2 matches UAVNode ID at rows: 27
+Worker 42 node_ID at row 3 matches UAVNode ID at rows: 35
+Worker 42 node_ID at row 4 matches UAVNode ID at rows: 174
+Worker 42 node_ID at row 5 matches UAVNode ID at rows: 194
+Worker 42 node_ID at row 6 matches UAVNode ID at rows: 192
+Worker 42 node_ID at row 7 matches UAVNode ID at rows: 196
+Worker 42 node_ID at row 9 matches UAVNode ID at rows: 37
+Worker 42 node_ID at row 10 matches UAVNode ID at rows: 171
+Worker 42 node_ID at row 11 matches UAVNode ID at rows: 28
+Worker 42 node_ID at row 14 matches UAVNode ID at rows: 33
+Worker 44 node_ID at row 2 matches UAVNode ID at rows: 136
+Worker 44 node_ID at row 3 matches UAVNode ID at rows: 353
+Worker 44 node_ID at row 4 matches UAVNode ID at rows: 490
+Worker 44 node_ID at row 5 matches UAVNode ID at rows: 356
+Worker 44 node_ID at row 6 matches UAVNode ID at rows: 354
+Worker 44 node_ID at row 8 matches UAVNode ID at rows: 475
+Worker 44 node_ID at row 10 matches UAVNode ID at rows: 373
+Worker 44 node_ID at row 13 matches UAVNode ID at rows: 355
+Worker 44 node_ID at row 14 matches UAVNode ID at rows: 443
+Worker 45 node_ID at row 1 matches UAVNode ID at rows: 69
+Worker 45 node_ID at row 5 matches UAVNode ID at rows: 67
+Worker 45 node_ID at row 12 matches UAVNode ID at rows: 66
+Worker 48 node_ID at row 5 matches UAVNode ID at rows: 83
+Worker 49 node_ID at row 1 matches UAVNode ID at rows: 188
+Worker 49 node_ID at row 4 matches UAVNode ID at rows: 172
+Worker 49 node_ID at row 9 matches UAVNode ID at rows: 33
+Worker 49 node_ID at row 11 matches UAVNode ID at rows: 173
+Worker 49 node_ID at row 12 matches UAVNode ID at rows: 193
+Worker 50 node_ID at row 2 matches UAVNode ID at rows: 219
+Worker 50 node_ID at row 3 matches UAVNode ID at rows: 224
+Worker 50 node_ID at row 5 matches UAVNode ID at rows: 229
+Worker 50 node_ID at row 6 matches UAVNode ID at rows: 11
+Worker 50 node_ID at row 7 matches UAVNode ID at rows: 223
+Worker 50 node_ID at row 9 matches UAVNode ID at rows: 245
+Worker 50 node_ID at row 10 matches UAVNode ID at rows: 235
+Worker 50 node_ID at row 13 matches UAVNode ID at rows: 18
+Worker 50 node_ID at row 14 matches UAVNode ID at rows: 248
+Worker 51 node_ID at row 8 matches UAVNode ID at rows: 76
+Worker 51 node_ID at row 11 matches UAVNode ID at rows: 75
+Worker 51 node_ID at row 13 matches UAVNode ID at rows: 423
+Worker 52 node_ID at row 1 matches UAVNode ID at rows: 406
+Worker 52 node_ID at row 2 matches UAVNode ID at rows: 409
+Worker 52 node_ID at row 5 matches UAVNode ID at rows: 265
+Worker 52 node_ID at row 6 matches UAVNode ID at rows: 281
+Worker 52 node_ID at row 8 matches UAVNode ID at rows: 262
+Worker 52 node_ID at row 9 matches UAVNode ID at rows: 399
+Worker 52 node_ID at row 10 matches UAVNode ID at rows: 280
+Worker 52 node_ID at row 11 matches UAVNode ID at rows: 402
+Worker 52 node_ID at row 12 matches UAVNode ID at rows: 202
+Worker 52 node_ID at row 14 matches UAVNode ID at rows: 390
+Worker 53 node_ID at row 1 matches UAVNode ID at rows: 449
+Worker 53 node_ID at row 2 matches UAVNode ID at rows: 101
+Worker 53 node_ID at row 3 matches UAVNode ID at rows: 477
+Worker 53 node_ID at row 4 matches UAVNode ID at rows: 150
+Worker 53 node_ID at row 6 matches UAVNode ID at rows: 456
+Worker 53 node_ID at row 7 matches UAVNode ID at rows: 153
+Worker 53 node_ID at row 8 matches UAVNode ID at rows: 108
+Worker 53 node_ID at row 9 matches UAVNode ID at rows: 454
+Worker 53 node_ID at row 10 matches UAVNode ID at rows: 482
+Worker 53 node_ID at row 11 matches UAVNode ID at rows: 105
+Worker 53 node_ID at row 12 matches UAVNode ID at rows: 465
+Worker 53 node_ID at row 13 matches UAVNode ID at rows: 493
+Worker 53 node_ID at row 14 matches UAVNode ID at rows: 462
+Worker 53 node_ID at row 15 matches UAVNode ID at rows: 499
+Worker 55 node_ID at row 1 matches UAVNode ID at rows: 82
+Worker 55 node_ID at row 2 matches UAVNode ID at rows: 438
+Worker 55 node_ID at row 3 matches UAVNode ID at rows: 90
+Worker 55 node_ID at row 4 matches UAVNode ID at rows: 89
+Worker 55 node_ID at row 5 matches UAVNode ID at rows: 93
+Worker 55 node_ID at row 6 matches UAVNode ID at rows: 80
+Worker 55 node_ID at row 8 matches UAVNode ID at rows: 431
+Worker 55 node_ID at row 9 matches UAVNode ID at rows: 444
+Worker 55 node_ID at row 10 matches UAVNode ID at rows: 77
+Worker 55 node_ID at row 12 matches UAVNode ID at rows: 298
+Worker 55 node_ID at row 13 matches UAVNode ID at rows: 371
+Worker 55 node_ID at row 14 matches UAVNode ID at rows: 443
+Worker 56 node_ID at row 6 matches UAVNode ID at rows: 83
+Worker 56 node_ID at row 9 matches UAVNode ID at rows: 90
+Worker 56 node_ID at row 11 matches UAVNode ID at rows: 84
+Worker 56 node_ID at row 12 matches UAVNode ID at rows: 437
+Worker 58 node_ID at row 3 matches UAVNode ID at rows: 174
+Worker 58 node_ID at row 5 matches UAVNode ID at rows: 171
+Worker 58 node_ID at row 10 matches UAVNode ID at rows: 191
+Worker 58 node_ID at row 12 matches UAVNode ID at rows: 165
+Worker 58 node_ID at row 15 matches UAVNode ID at rows: 183
+Worker 59 node_ID at row 1 matches UAVNode ID at rows: 454
+Worker 59 node_ID at row 2 matches UAVNode ID at rows: 497
+Worker 59 node_ID at row 3 matches UAVNode ID at rows: 113
+Worker 59 node_ID at row 6 matches UAVNode ID at rows: 475
+Worker 59 node_ID at row 7 matches UAVNode ID at rows: 117
+Worker 59 node_ID at row 8 matches UAVNode ID at rows: 495
+Worker 59 node_ID at row 9 matches UAVNode ID at rows: 502
+Worker 59 node_ID at row 11 matches UAVNode ID at rows: 481
+Worker 59 node_ID at row 12 matches UAVNode ID at rows: 491
+Worker 59 node_ID at row 14 matches UAVNode ID at rows: 480
+Worker 60 node_ID at row 4 matches UAVNode ID at rows: 77
+Worker 60 node_ID at row 7 matches UAVNode ID at rows: 83
+Worker 60 node_ID at row 9 matches UAVNode ID at rows: 90
+Worker 60 node_ID at row 12 matches UAVNode ID at rows: 93
+Worker 60 node_ID at row 13 matches UAVNode ID at rows: 89
+Worker 61 node_ID at row 1 matches UAVNode ID at rows: 222
+Worker 61 node_ID at row 2 matches UAVNode ID at rows: 151
+Worker 61 node_ID at row 3 matches UAVNode ID at rows: 219
+Worker 61 node_ID at row 4 matches UAVNode ID at rows: 120
+Worker 61 node_ID at row 5 matches UAVNode ID at rows: 224
+Worker 61 node_ID at row 6 matches UAVNode ID at rows: 155
+Worker 61 node_ID at row 7 matches UAVNode ID at rows: 111
+Worker 61 node_ID at row 8 matches UAVNode ID at rows: 500
+Worker 61 node_ID at row 10 matches UAVNode ID at rows: 154
+Worker 61 node_ID at row 11 matches UAVNode ID at rows: 123
+Worker 61 node_ID at row 12 matches UAVNode ID at rows: 115
+Worker 61 node_ID at row 13 matches UAVNode ID at rows: 232
+Worker 61 node_ID at row 14 matches UAVNode ID at rows: 163
+Worker 61 node_ID at row 15 matches UAVNode ID at rows: 125
+Worker 62 node_ID at row 2 matches UAVNode ID at rows: 68
+Worker 62 node_ID at row 5 matches UAVNode ID at rows: 342
+Worker 62 node_ID at row 7 matches UAVNode ID at rows: 278
+Worker 62 node_ID at row 8 matches UAVNode ID at rows: 341
+Worker 62 node_ID at row 11 matches UAVNode ID at rows: 59
+Worker 62 node_ID at row 13 matches UAVNode ID at rows: 66
+Worker 62 node_ID at row 15 matches UAVNode ID at rows: 344
+Worker 63 node_ID at row 1 matches UAVNode ID at rows: 384
+Worker 63 node_ID at row 3 matches UAVNode ID at rows: 300
+Worker 63 node_ID at row 4 matches UAVNode ID at rows: 380
+Worker 63 node_ID at row 5 matches UAVNode ID at rows: 296
+Worker 63 node_ID at row 7 matches UAVNode ID at rows: 288
+Worker 63 node_ID at row 8 matches UAVNode ID at rows: 287
+Worker 63 node_ID at row 10 matches UAVNode ID at rows: 292
+Worker 63 node_ID at row 11 matches UAVNode ID at rows: 301
+Worker 63 node_ID at row 13 matches UAVNode ID at rows: 304
+Worker 63 node_ID at row 14 matches UAVNode ID at rows: 381
+Worker 63 node_ID at row 15 matches UAVNode ID at rows: 299
+Worker 64 node_ID at row 1 matches UAVNode ID at rows: 48
+Worker 64 node_ID at row 2 matches UAVNode ID at rows: 58
+Worker 64 node_ID at row 3 matches UAVNode ID at rows: 253
+Worker 64 node_ID at row 4 matches UAVNode ID at rows: 263
+Worker 64 node_ID at row 5 matches UAVNode ID at rows: 468
+Worker 64 node_ID at row 6 matches UAVNode ID at rows: 202
+Worker 64 node_ID at row 7 matches UAVNode ID at rows: 249
+Worker 64 node_ID at row 8 matches UAVNode ID at rows: 208
+Worker 64 node_ID at row 9 matches UAVNode ID at rows: 466
+Worker 64 node_ID at row 10 matches UAVNode ID at rows: 264
+Worker 64 node_ID at row 11 matches UAVNode ID at rows: 282
+Worker 64 node_ID at row 12 matches UAVNode ID at rows: 267
+Worker 64 node_ID at row 13 matches UAVNode ID at rows: 280
+Worker 64 node_ID at row 14 matches UAVNode ID at rows: 217
+Worker 66 node_ID at row 2 matches UAVNode ID at rows: 115
+Worker 66 node_ID at row 3 matches UAVNode ID at rows: 484
+Worker 66 node_ID at row 4 matches UAVNode ID at rows: 498
+Worker 66 node_ID at row 8 matches UAVNode ID at rows: 492
+Worker 66 node_ID at row 9 matches UAVNode ID at rows: 112
+Worker 66 node_ID at row 11 matches UAVNode ID at rows: 497
+Worker 66 node_ID at row 14 matches UAVNode ID at rows: 496
+Worker 66 node_ID at row 15 matches UAVNode ID at rows: 118
+Worker 67 node_ID at row 1 matches UAVNode ID at rows: 184
+Worker 67 node_ID at row 2 matches UAVNode ID at rows: 181
+Worker 67 node_ID at row 3 matches UAVNode ID at rows: 180
+Worker 67 node_ID at row 4 matches UAVNode ID at rows: 185
+Worker 67 node_ID at row 5 matches UAVNode ID at rows: 174
+Worker 67 node_ID at row 6 matches UAVNode ID at rows: 172
+Worker 67 node_ID at row 8 matches UAVNode ID at rows: 167
+Worker 67 node_ID at row 9 matches UAVNode ID at rows: 173
+Worker 67 node_ID at row 10 matches UAVNode ID at rows: 171
+Worker 67 node_ID at row 11 matches UAVNode ID at rows: 183
+Worker 67 node_ID at row 12 matches UAVNode ID at rows: 28
+Worker 67 node_ID at row 13 matches UAVNode ID at rows: 164
+Worker 67 node_ID at row 14 matches UAVNode ID at rows: 165
+Worker 69 node_ID at row 2 matches UAVNode ID at rows: 230
+Worker 69 node_ID at row 3 matches UAVNode ID at rows: 493
+Worker 69 node_ID at row 6 matches UAVNode ID at rows: 488
+Worker 69 node_ID at row 8 matches UAVNode ID at rows: 118
+Worker 69 node_ID at row 9 matches UAVNode ID at rows: 106
+Worker 69 node_ID at row 11 matches UAVNode ID at rows: 244
+Worker 69 node_ID at row 14 matches UAVNode ID at rows: 483
+Worker 69 node_ID at row 15 matches UAVNode ID at rows: 121
+Worker 70 node_ID at row 1 matches UAVNode ID at rows: 9
+Worker 70 node_ID at row 5 matches UAVNode ID at rows: 344
+Worker 70 node_ID at row 7 matches UAVNode ID at rows: 67
+Worker 70 node_ID at row 8 matches UAVNode ID at rows: 74
+Worker 70 node_ID at row 10 matches UAVNode ID at rows: 351
+Worker 70 node_ID at row 12 matches UAVNode ID at rows: 60
+Worker 70 node_ID at row 13 matches UAVNode ID at rows: 66
+Worker 70 node_ID at row 14 matches UAVNode ID at rows: 54
+Worker 71 node_ID at row 12 matches UAVNode ID at rows: 178
+Worker 73 node_ID at row 2 matches UAVNode ID at rows: 143
+Worker 73 node_ID at row 4 matches UAVNode ID at rows: 106
+Worker 73 node_ID at row 6 matches UAVNode ID at rows: 120
+Worker 73 node_ID at row 7 matches UAVNode ID at rows: 146
+Worker 73 node_ID at row 11 matches UAVNode ID at rows: 379
+Worker 73 node_ID at row 12 matches UAVNode ID at rows: 100
+Worker 74 node_ID at row 4 matches UAVNode ID at rows: 408
+Worker 74 node_ID at row 5 matches UAVNode ID at rows: 409
+Worker 74 node_ID at row 6 matches UAVNode ID at rows: 75
+Worker 74 node_ID at row 9 matches UAVNode ID at rows: 422
+Worker 74 node_ID at row 11 matches UAVNode ID at rows: 413
+Worker 75 node_ID at row 1 matches UAVNode ID at rows: 470
+Worker 75 node_ID at row 3 matches UAVNode ID at rows: 58
+Worker 75 node_ID at row 4 matches UAVNode ID at rows: 255
+Worker 75 node_ID at row 5 matches UAVNode ID at rows: 50
+Worker 75 node_ID at row 6 matches UAVNode ID at rows: 283
+Worker 75 node_ID at row 7 matches UAVNode ID at rows: 465
+Worker 75 node_ID at row 8 matches UAVNode ID at rows: 466
+Worker 75 node_ID at row 10 matches UAVNode ID at rows: 256
+Worker 75 node_ID at row 11 matches UAVNode ID at rows: 472
+Worker 75 node_ID at row 12 matches UAVNode ID at rows: 55
+Worker 75 node_ID at row 13 matches UAVNode ID at rows: 285
+Worker 75 node_ID at row 14 matches UAVNode ID at rows: 271
+Worker 76 node_ID at row 2 matches UAVNode ID at rows: 77
+Worker 76 node_ID at row 8 matches UAVNode ID at rows: 87
+Worker 76 node_ID at row 10 matches UAVNode ID at rows: 95
+Worker 76 node_ID at row 12 matches UAVNode ID at rows: 446
+Worker 76 node_ID at row 14 matches UAVNode ID at rows: 84
+Worker 78 node_ID at row 1 matches UAVNode ID at rows: 373
+Worker 78 node_ID at row 2 matches UAVNode ID at rows: 131
+Worker 78 node_ID at row 3 matches UAVNode ID at rows: 128
+Worker 78 node_ID at row 4 matches UAVNode ID at rows: 145
+Worker 78 node_ID at row 6 matches UAVNode ID at rows: 138
+Worker 78 node_ID at row 7 matches UAVNode ID at rows: 143
+Worker 78 node_ID at row 8 matches UAVNode ID at rows: 147
+Worker 78 node_ID at row 9 matches UAVNode ID at rows: 386
+Worker 78 node_ID at row 10 matches UAVNode ID at rows: 382
+Worker 78 node_ID at row 11 matches UAVNode ID at rows: 303
+Worker 78 node_ID at row 12 matches UAVNode ID at rows: 375
+Worker 78 node_ID at row 13 matches UAVNode ID at rows: 380
+Worker 78 node_ID at row 14 matches UAVNode ID at rows: 381
+Worker 78 node_ID at row 15 matches UAVNode ID at rows: 129
+Worker 79 node_ID at row 4 matches UAVNode ID at rows: 463
+Worker 79 node_ID at row 5 matches UAVNode ID at rows: 253
+Worker 79 node_ID at row 6 matches UAVNode ID at rows: 270
+Worker 79 node_ID at row 9 matches UAVNode ID at rows: 271
+Worker 79 node_ID at row 11 matches UAVNode ID at rows: 257
+Worker 79 node_ID at row 12 matches UAVNode ID at rows: 51
+Worker 79 node_ID at row 13 matches UAVNode ID at rows: 71
+Worker 79 node_ID at row 14 matches UAVNode ID at rows: 472
+Worker 79 node_ID at row 15 matches UAVNode ID at rows: 57
+Worker 80 node_ID at row 5 matches UAVNode ID at rows: 168
+Worker 80 node_ID at row 8 matches UAVNode ID at rows: 188
+Worker 80 node_ID at row 13 matches UAVNode ID at rows: 180
+Worker 80 node_ID at row 15 matches UAVNode ID at rows: 183
+Worker 81 node_ID at row 3 matches UAVNode ID at rows: 286
+Worker 81 node_ID at row 5 matches UAVNode ID at rows: 78
+Worker 81 node_ID at row 8 matches UAVNode ID at rows: 93
+Worker 81 node_ID at row 9 matches UAVNode ID at rows: 138
+Worker 81 node_ID at row 10 matches UAVNode ID at rows: 80
+Worker 81 node_ID at row 11 matches UAVNode ID at rows: 440
+Worker 81 node_ID at row 12 matches UAVNode ID at rows: 442
+Worker 81 node_ID at row 13 matches UAVNode ID at rows: 435
+Worker 81 node_ID at row 14 matches UAVNode ID at rows: 305
+Worker 81 node_ID at row 15 matches UAVNode ID at rows: 96
+Worker 82 node_ID at row 1 matches UAVNode ID at rows: 68
+Worker 82 node_ID at row 2 matches UAVNode ID at rows: 273
+Worker 82 node_ID at row 3 matches UAVNode ID at rows: 469
+Worker 82 node_ID at row 4 matches UAVNode ID at rows: 471
+Worker 82 node_ID at row 5 matches UAVNode ID at rows: 284
+Worker 82 node_ID at row 6 matches UAVNode ID at rows: 264
+Worker 82 node_ID at row 7 matches UAVNode ID at rows: 456
+Worker 82 node_ID at row 8 matches UAVNode ID at rows: 344
+Worker 82 node_ID at row 9 matches UAVNode ID at rows: 215
+Worker 82 node_ID at row 10 matches UAVNode ID at rows: 457
+Worker 82 node_ID at row 11 matches UAVNode ID at rows: 470
+Worker 82 node_ID at row 12 matches UAVNode ID at rows: 204
+Worker 82 node_ID at row 14 matches UAVNode ID at rows: 485
+Worker 82 node_ID at row 15 matches UAVNode ID at rows: 451
+Worker 83 node_ID at row 3 matches UAVNode ID at rows: 327
+Worker 83 node_ID at row 5 matches UAVNode ID at rows: 315
+Worker 83 node_ID at row 6 matches UAVNode ID at rows: 313
+Worker 83 node_ID at row 9 matches UAVNode ID at rows: 22
+Worker 83 node_ID at row 11 matches UAVNode ID at rows: 334
+Worker 83 node_ID at row 12 matches UAVNode ID at rows: 36
+Worker 84 node_ID at row 1 matches UAVNode ID at rows: 491
+Worker 84 node_ID at row 2 matches UAVNode ID at rows: 232
+Worker 84 node_ID at row 3 matches UAVNode ID at rows: 473
+Worker 84 node_ID at row 4 matches UAVNode ID at rows: 488
+Worker 84 node_ID at row 5 matches UAVNode ID at rows: 160
+Worker 84 node_ID at row 6 matches UAVNode ID at rows: 104
+Worker 84 node_ID at row 7 matches UAVNode ID at rows: 158
+Worker 84 node_ID at row 8 matches UAVNode ID at rows: 105
+Worker 84 node_ID at row 9 matches UAVNode ID at rows: 230
+Worker 84 node_ID at row 10 matches UAVNode ID at rows: 106
+Worker 84 node_ID at row 11 matches UAVNode ID at rows: 241
+Worker 84 node_ID at row 12 matches UAVNode ID at rows: 237
+Worker 84 node_ID at row 13 matches UAVNode ID at rows: 219
+Worker 84 node_ID at row 14 matches UAVNode ID at rows: 242
+Worker 85 node_ID at row 1 matches UAVNode ID at rows: 216
+Worker 85 node_ID at row 2 matches UAVNode ID at rows: 217
+Worker 85 node_ID at row 3 matches UAVNode ID at rows: 201
+Worker 85 node_ID at row 4 matches UAVNode ID at rows: 215
+Worker 85 node_ID at row 5 matches UAVNode ID at rows: 204
+Worker 85 node_ID at row 6 matches UAVNode ID at rows: 254
+Worker 85 node_ID at row 7 matches UAVNode ID at rows: 256
+Worker 85 node_ID at row 8 matches UAVNode ID at rows: 275
+Worker 85 node_ID at row 9 matches UAVNode ID at rows: 350
+Worker 85 node_ID at row 10 matches UAVNode ID at rows: 208
+Worker 85 node_ID at row 11 matches UAVNode ID at rows: 343
+Worker 85 node_ID at row 13 matches UAVNode ID at rows: 202
+Worker 85 node_ID at row 14 matches UAVNode ID at rows: 467
+Worker 85 node_ID at row 15 matches UAVNode ID at rows: 458
+Worker 86 node_ID at row 1 matches UAVNode ID at rows: 330
+Worker 88 node_ID at row 1 matches UAVNode ID at rows: 321
+Worker 88 node_ID at row 3 matches UAVNode ID at rows: 324
+Worker 88 node_ID at row 7 matches UAVNode ID at rows: 312
+Worker 88 node_ID at row 8 matches UAVNode ID at rows: 320
+Worker 88 node_ID at row 11 matches UAVNode ID at rows: 328
+Worker 88 node_ID at row 13 matches UAVNode ID at rows: 317
+Worker 89 node_ID at row 4 matches UAVNode ID at rows: 25
+Worker 89 node_ID at row 10 matches UAVNode ID at rows: 174
+Worker 89 node_ID at row 15 matches UAVNode ID at rows: 189
+Worker 90 node_ID at row 1 matches UAVNode ID at rows: 109
+Worker 90 node_ID at row 2 matches UAVNode ID at rows: 106
+Worker 90 node_ID at row 4 matches UAVNode ID at rows: 112
+Worker 90 node_ID at row 7 matches UAVNode ID at rows: 120
+Worker 90 node_ID at row 8 matches UAVNode ID at rows: 114
+Worker 90 node_ID at row 9 matches UAVNode ID at rows: 498
+Worker 90 node_ID at row 11 matches UAVNode ID at rows: 122
+Worker 90 node_ID at row 12 matches UAVNode ID at rows: 126
+Worker 90 node_ID at row 13 matches UAVNode ID at rows: 100
+Worker 90 node_ID at row 14 matches UAVNode ID at rows: 118
+Worker 91 node_ID at row 2 matches UAVNode ID at rows: 179
+Worker 91 node_ID at row 3 matches UAVNode ID at rows: 186
+Worker 91 node_ID at row 4 matches UAVNode ID at rows: 194
+Worker 91 node_ID at row 5 matches UAVNode ID at rows: 195
+Worker 91 node_ID at row 6 matches UAVNode ID at rows: 173
+Worker 91 node_ID at row 7 matches UAVNode ID at rows: 178
+Worker 91 node_ID at row 8 matches UAVNode ID at rows: 164
+Worker 91 node_ID at row 9 matches UAVNode ID at rows: 192
+Worker 91 node_ID at row 10 matches UAVNode ID at rows: 170
+Worker 91 node_ID at row 11 matches UAVNode ID at rows: 174
+Worker 91 node_ID at row 12 matches UAVNode ID at rows: 166
+Worker 91 node_ID at row 13 matches UAVNode ID at rows: 191
+Worker 91 node_ID at row 14 matches UAVNode ID at rows: 180
+Worker 91 node_ID at row 15 matches UAVNode ID at rows: 188
+Worker 92 node_ID at row 1 matches UAVNode ID at rows: 399
+Worker 92 node_ID at row 3 matches UAVNode ID at rows: 390
+Worker 92 node_ID at row 4 matches UAVNode ID at rows: 405
+Worker 92 node_ID at row 6 matches UAVNode ID at rows: 394
+Worker 92 node_ID at row 7 matches UAVNode ID at rows: 417
+Worker 92 node_ID at row 9 matches UAVNode ID at rows: 416
+Worker 92 node_ID at row 11 matches UAVNode ID at rows: 392
+Worker 92 node_ID at row 13 matches UAVNode ID at rows: 408
+Worker 92 node_ID at row 14 matches UAVNode ID at rows: 398
+Worker 93 node_ID at row 5 matches UAVNode ID at rows: 263
+Worker 93 node_ID at row 11 matches UAVNode ID at rows: 277
+Worker 94 node_ID at row 1 matches UAVNode ID at rows: 78
+Worker 94 node_ID at row 2 matches UAVNode ID at rows: 97
+Worker 94 node_ID at row 5 matches UAVNode ID at rows: 435
+Worker 94 node_ID at row 6 matches UAVNode ID at rows: 441
+Worker 94 node_ID at row 7 matches UAVNode ID at rows: 76
+Worker 94 node_ID at row 8 matches UAVNode ID at rows: 90
+Worker 94 node_ID at row 9 matches UAVNode ID at rows: 84
+Worker 94 node_ID at row 10 matches UAVNode ID at rows: 75
+Worker 94 node_ID at row 11 matches UAVNode ID at rows: 98
+Worker 94 node_ID at row 12 matches UAVNode ID at rows: 430
+Worker 95 node_ID at row 1 matches UAVNode ID at rows: 7
+Worker 95 node_ID at row 9 matches UAVNode ID at rows: 17
+Worker 95 node_ID at row 11 matches UAVNode ID at rows: 9
+Worker 95 node_ID at row 13 matches UAVNode ID at rows: 3
+Worker 96 node_ID at row 1 matches UAVNode ID at rows: 241
+Worker 96 node_ID at row 2 matches UAVNode ID at rows: 113
+Worker 96 node_ID at row 3 matches UAVNode ID at rows: 123
+Worker 96 node_ID at row 4 matches UAVNode ID at rows: 221
+Worker 96 node_ID at row 5 matches UAVNode ID at rows: 227
+Worker 96 node_ID at row 6 matches UAVNode ID at rows: 118
+Worker 96 node_ID at row 7 matches UAVNode ID at rows: 228
+Worker 96 node_ID at row 8 matches UAVNode ID at rows: 120
+Worker 96 node_ID at row 9 matches UAVNode ID at rows: 233
+Worker 96 node_ID at row 10 matches UAVNode ID at rows: 237
+Worker 96 node_ID at row 11 matches UAVNode ID at rows: 160
+Worker 96 node_ID at row 12 matches UAVNode ID at rows: 125
+Worker 96 node_ID at row 13 matches UAVNode ID at rows: 244
+Worker 96 node_ID at row 14 matches UAVNode ID at rows: 104
+Worker 96 node_ID at row 15 matches UAVNode ID at rows: 122
+Worker 97 node_ID at row 2 matches UAVNode ID at rows: 240
+Worker 97 node_ID at row 3 matches UAVNode ID at rows: 232
+Worker 97 node_ID at row 4 matches UAVNode ID at rows: 10
+Worker 97 node_ID at row 5 matches UAVNode ID at rows: 2
+Worker 97 node_ID at row 6 matches UAVNode ID at rows: 11
+Worker 97 node_ID at row 7 matches UAVNode ID at rows: 245
+Worker 97 node_ID at row 8 matches UAVNode ID at rows: 242
+Worker 97 node_ID at row 10 matches UAVNode ID at rows: 16
+Worker 97 node_ID at row 13 matches UAVNode ID at rows: 219
+Worker 97 node_ID at row 15 matches UAVNode ID at rows: 238
+Worker 98 node_ID at row 1 matches UAVNode ID at rows: 148
+Worker 98 node_ID at row 2 matches UAVNode ID at rows: 293
+Worker 98 node_ID at row 3 matches UAVNode ID at rows: 129
+Worker 98 node_ID at row 5 matches UAVNode ID at rows: 288
+Worker 98 node_ID at row 6 matches UAVNode ID at rows: 295
+Worker 98 node_ID at row 8 matches UAVNode ID at rows: 386
+Worker 98 node_ID at row 10 matches UAVNode ID at rows: 287
+Worker 98 node_ID at row 12 matches UAVNode ID at rows: 303
+Worker 98 node_ID at row 13 matches UAVNode ID at rows: 381
+Worker 99 node_ID at row 1 matches UAVNode ID at rows: 224
+Worker 99 node_ID at row 2 matches UAVNode ID at rows: 227
+Worker 99 node_ID at row 12 matches UAVNode ID at rows: 219
+Worker 100 node_ID at row 2 matches UAVNode ID at rows: 236
+Worker 100 node_ID at row 3 matches UAVNode ID at rows: 106
+Worker 100 node_ID at row 5 matches UAVNode ID at rows: 244
+Worker 100 node_ID at row 7 matches UAVNode ID at rows: 502
+Worker 100 node_ID at row 8 matches UAVNode ID at rows: 477
+Worker 100 node_ID at row 9 matches UAVNode ID at rows: 456
+Worker 100 node_ID at row 10 matches UAVNode ID at rows: 112
+Worker 100 node_ID at row 11 matches UAVNode ID at rows: 497
+Worker 100 node_ID at row 12 matches UAVNode ID at rows: 491
+Worker 100 node_ID at row 13 matches UAVNode ID at rows: 496
+Worker 100 node_ID at row 14 matches UAVNode ID at rows: 461
+Worker 101 node_ID at row 3 matches UAVNode ID at rows: 288
+Worker 101 node_ID at row 10 matches UAVNode ID at rows: 384
+Worker 101 node_ID at row 12 matches UAVNode ID at rows: 293
+Worker 102 node_ID at row 1 matches UAVNode ID at rows: 20
+Worker 102 node_ID at row 3 matches UAVNode ID at rows: 326
+Worker 102 node_ID at row 5 matches UAVNode ID at rows: 38
+Worker 102 node_ID at row 6 matches UAVNode ID at rows: 335
+Worker 102 node_ID at row 7 matches UAVNode ID at rows: 24
+Worker 102 node_ID at row 8 matches UAVNode ID at rows: 34
+Worker 102 node_ID at row 9 matches UAVNode ID at rows: 320
+Worker 102 node_ID at row 10 matches UAVNode ID at rows: 334
+Worker 102 node_ID at row 11 matches UAVNode ID at rows: 322
+Worker 102 node_ID at row 14 matches UAVNode ID at rows: 313
+Worker 102 node_ID at row 15 matches UAVNode ID at rows: 314
+Worker 103 node_ID at row 1 matches UAVNode ID at rows: 128
+Worker 103 node_ID at row 2 matches UAVNode ID at rows: 137
+Worker 103 node_ID at row 3 matches UAVNode ID at rows: 130
+Worker 103 node_ID at row 4 matches UAVNode ID at rows: 138
+Worker 103 node_ID at row 5 matches UAVNode ID at rows: 135
+Worker 103 node_ID at row 6 matches UAVNode ID at rows: 144
+Worker 103 node_ID at row 7 matches UAVNode ID at rows: 139
+Worker 103 node_ID at row 8 matches UAVNode ID at rows: 134
+Worker 103 node_ID at row 9 matches UAVNode ID at rows: 306
+Worker 103 node_ID at row 10 matches UAVNode ID at rows: 378
+Worker 103 node_ID at row 12 matches UAVNode ID at rows: 382
+Worker 103 node_ID at row 13 matches UAVNode ID at rows: 375
+Worker 105 node_ID at row 3 matches UAVNode ID at rows: 70
+Worker 105 node_ID at row 4 matches UAVNode ID at rows: 55
+Worker 105 node_ID at row 12 matches UAVNode ID at rows: 72
+Worker 105 node_ID at row 13 matches UAVNode ID at rows: 277
+Worker 105 node_ID at row 14 matches UAVNode ID at rows: 57
+Worker 106 node_ID at row 1 matches UAVNode ID at rows: 465
+Worker 106 node_ID at row 2 matches UAVNode ID at rows: 268
+Worker 106 node_ID at row 3 matches UAVNode ID at rows: 258
+Worker 106 node_ID at row 4 matches UAVNode ID at rows: 55
+Worker 106 node_ID at row 6 matches UAVNode ID at rows: 54
+Worker 106 node_ID at row 9 matches UAVNode ID at rows: 284
+Worker 106 node_ID at row 10 matches UAVNode ID at rows: 202
+Worker 106 node_ID at row 11 matches UAVNode ID at rows: 56
+Worker 106 node_ID at row 12 matches UAVNode ID at rows: 210
+Worker 106 node_ID at row 13 matches UAVNode ID at rows: 274
+Worker 106 node_ID at row 15 matches UAVNode ID at rows: 472
+Worker 107 node_ID at row 3 matches UAVNode ID at rows: 67
+Worker 107 node_ID at row 4 matches UAVNode ID at rows: 51
+Worker 107 node_ID at row 5 matches UAVNode ID at rows: 339
+Worker 107 node_ID at row 7 matches UAVNode ID at rows: 54
+Worker 107 node_ID at row 8 matches UAVNode ID at rows: 48
+Worker 107 node_ID at row 9 matches UAVNode ID at rows: 466
+Worker 107 node_ID at row 12 matches UAVNode ID at rows: 342
+Worker 107 node_ID at row 14 matches UAVNode ID at rows: 56
+Worker 108 node_ID at row 1 matches UAVNode ID at rows: 351
+Worker 108 node_ID at row 2 matches UAVNode ID at rows: 48
+Worker 108 node_ID at row 3 matches UAVNode ID at rows: 466
+Worker 108 node_ID at row 4 matches UAVNode ID at rows: 254
+Worker 108 node_ID at row 5 matches UAVNode ID at rows: 73
+Worker 108 node_ID at row 6 matches UAVNode ID at rows: 350
+Worker 108 node_ID at row 7 matches UAVNode ID at rows: 450
+Worker 108 node_ID at row 8 matches UAVNode ID at rows: 70
+Worker 108 node_ID at row 9 matches UAVNode ID at rows: 349
+Worker 108 node_ID at row 10 matches UAVNode ID at rows: 463
+Worker 108 node_ID at row 11 matches UAVNode ID at rows: 268
+Worker 108 node_ID at row 12 matches UAVNode ID at rows: 249
+Worker 108 node_ID at row 13 matches UAVNode ID at rows: 344
+Worker 108 node_ID at row 14 matches UAVNode ID at rows: 462
+Worker 108 node_ID at row 15 matches UAVNode ID at rows: 52
+Worker 109 node_ID at row 2 matches UAVNode ID at rows: 318
+Worker 109 node_ID at row 4 matches UAVNode ID at rows: 29
+Worker 109 node_ID at row 6 matches UAVNode ID at rows: 20
+Worker 109 node_ID at row 7 matches UAVNode ID at rows: 44
+Worker 109 node_ID at row 11 matches UAVNode ID at rows: 40
+Worker 109 node_ID at row 12 matches UAVNode ID at rows: 327
+Worker 109 node_ID at row 13 matches UAVNode ID at rows: 312
+Worker 110 node_ID at row 1 matches UAVNode ID at rows: 211
+Worker 110 node_ID at row 2 matches UAVNode ID at rows: 130
+Worker 110 node_ID at row 3 matches UAVNode ID at rows: 213
+Worker 110 node_ID at row 4 matches UAVNode ID at rows: 440
+Worker 110 node_ID at row 7 matches UAVNode ID at rows: 369
+Worker 110 node_ID at row 8 matches UAVNode ID at rows: 361
+Worker 110 node_ID at row 9 matches UAVNode ID at rows: 199
+Worker 110 node_ID at row 11 matches UAVNode ID at rows: 439
+Worker 110 node_ID at row 12 matches UAVNode ID at rows: 364
+Worker 111 node_ID at row 2 matches UAVNode ID at rows: 117
+Worker 111 node_ID at row 3 matches UAVNode ID at rows: 154
+Worker 111 node_ID at row 4 matches UAVNode ID at rows: 119
+Worker 111 node_ID at row 5 matches UAVNode ID at rows: 107
+Worker 111 node_ID at row 6 matches UAVNode ID at rows: 126
+Worker 111 node_ID at row 7 matches UAVNode ID at rows: 233
+Worker 111 node_ID at row 8 matches UAVNode ID at rows: 242
+Worker 111 node_ID at row 9 matches UAVNode ID at rows: 115
+Worker 111 node_ID at row 10 matches UAVNode ID at rows: 231
+Worker 111 node_ID at row 11 matches UAVNode ID at rows: 224
+Worker 111 node_ID at row 12 matches UAVNode ID at rows: 161
+Worker 111 node_ID at row 13 matches UAVNode ID at rows: 244
+Worker 111 node_ID at row 14 matches UAVNode ID at rows: 232
+Worker 111 node_ID at row 15 matches UAVNode ID at rows: 481
+Worker 112 node_ID at row 2 matches UAVNode ID at rows: 202
+Worker 112 node_ID at row 3 matches UAVNode ID at rows: 265
+Worker 112 node_ID at row 4 matches UAVNode ID at rows: 262
+Worker 112 node_ID at row 5 matches UAVNode ID at rows: 210
+Worker 112 node_ID at row 6 matches UAVNode ID at rows: 465
+Worker 112 node_ID at row 7 matches UAVNode ID at rows: 460
+Worker 112 node_ID at row 8 matches UAVNode ID at rows: 279
+Worker 112 node_ID at row 9 matches UAVNode ID at rows: 271
+Worker 112 node_ID at row 10 matches UAVNode ID at rows: 256
+Worker 112 node_ID at row 11 matches UAVNode ID at rows: 216
+Worker 112 node_ID at row 12 matches UAVNode ID at rows: 282
+Worker 112 node_ID at row 13 matches UAVNode ID at rows: 455
+Worker 112 node_ID at row 14 matches UAVNode ID at rows: 261
+Worker 113 node_ID at row 2 matches UAVNode ID at rows: 275
+Worker 113 node_ID at row 5 matches UAVNode ID at rows: 267
+Worker 113 node_ID at row 7 matches UAVNode ID at rows: 250
+Worker 113 node_ID at row 8 matches UAVNode ID at rows: 68
+Worker 113 node_ID at row 9 matches UAVNode ID at rows: 268
+Worker 113 node_ID at row 11 matches UAVNode ID at rows: 60
+Worker 113 node_ID at row 12 matches UAVNode ID at rows: 69
+Worker 113 node_ID at row 13 matches UAVNode ID at rows: 55
+Worker 114 node_ID at row 1 matches UAVNode ID at rows: 16
+Worker 114 node_ID at row 3 matches UAVNode ID at rows: 19
+Worker 114 node_ID at row 4 matches UAVNode ID at rows: 10
+Worker 114 node_ID at row 6 matches UAVNode ID at rows: 9
+Worker 114 node_ID at row 7 matches UAVNode ID at rows: 4
+Worker 114 node_ID at row 8 matches UAVNode ID at rows: 18
+Worker 114 node_ID at row 10 matches UAVNode ID at rows: 14
+Worker 114 node_ID at row 11 matches UAVNode ID at rows: 5
+Worker 114 node_ID at row 14 matches UAVNode ID at rows: 17
+Worker 114 node_ID at row 15 matches UAVNode ID at rows: 2
+Worker 115 node_ID at row 2 matches UAVNode ID at rows: 360
+Worker 115 node_ID at row 3 matches UAVNode ID at rows: 485
+Worker 115 node_ID at row 8 matches UAVNode ID at rows: 215
+Worker 115 node_ID at row 10 matches UAVNode ID at rows: 373
+Worker 115 node_ID at row 11 matches UAVNode ID at rows: 469
+Worker 115 node_ID at row 12 matches UAVNode ID at rows: 203
+Worker 115 node_ID at row 13 matches UAVNode ID at rows: 353
+Worker 115 node_ID at row 15 matches UAVNode ID at rows: 491
+Worker 116 node_ID at row 1 matches UAVNode ID at rows: 150
+Worker 116 node_ID at row 2 matches UAVNode ID at rows: 159
+Worker 116 node_ID at row 3 matches UAVNode ID at rows: 149
+Worker 116 node_ID at row 4 matches UAVNode ID at rows: 52
+Worker 116 node_ID at row 5 matches UAVNode ID at rows: 463
+Worker 116 node_ID at row 6 matches UAVNode ID at rows: 471
+Worker 116 node_ID at row 7 matches UAVNode ID at rows: 455
+Worker 116 node_ID at row 8 matches UAVNode ID at rows: 65
+Worker 116 node_ID at row 9 matches UAVNode ID at rows: 472
+Worker 116 node_ID at row 10 matches UAVNode ID at rows: 351
+Worker 116 node_ID at row 11 matches UAVNode ID at rows: 347
+Worker 116 node_ID at row 12 matches UAVNode ID at rows: 343
+Worker 116 node_ID at row 13 matches UAVNode ID at rows: 67
+Worker 116 node_ID at row 14 matches UAVNode ID at rows: 59
+Worker 117 node_ID at row 14 matches UAVNode ID at rows: 320
+Worker 118 node_ID at row 2 matches UAVNode ID at rows: 123
+Worker 118 node_ID at row 3 matches UAVNode ID at rows: 220
+Worker 118 node_ID at row 4 matches UAVNode ID at rows: 229
+Worker 118 node_ID at row 5 matches UAVNode ID at rows: 221
+Worker 118 node_ID at row 6 matches UAVNode ID at rows: 247
+Worker 118 node_ID at row 7 matches UAVNode ID at rows: 110
+Worker 118 node_ID at row 8 matches UAVNode ID at rows: 227
+Worker 118 node_ID at row 9 matches UAVNode ID at rows: 223
+Worker 118 node_ID at row 10 matches UAVNode ID at rows: 222
+Worker 118 node_ID at row 11 matches UAVNode ID at rows: 230
+Worker 118 node_ID at row 12 matches UAVNode ID at rows: 126
+Worker 118 node_ID at row 13 matches UAVNode ID at rows: 102
+Worker 118 node_ID at row 14 matches UAVNode ID at rows: 237
+Worker 118 node_ID at row 15 matches UAVNode ID at rows: 248
+Worker 119 node_ID at row 4 matches UAVNode ID at rows: 332
+Worker 119 node_ID at row 6 matches UAVNode ID at rows: 331
+Worker 119 node_ID at row 8 matches UAVNode ID at rows: 317
+Worker 119 node_ID at row 12 matches UAVNode ID at rows: 324
+Worker 119 node_ID at row 14 matches UAVNode ID at rows: 37
+Worker 119 node_ID at row 15 matches UAVNode ID at rows: 36
+Worker 120 node_ID at row 4 matches UAVNode ID at rows: 69
+Worker 120 node_ID at row 6 matches UAVNode ID at rows: 278
+Worker 120 node_ID at row 11 matches UAVNode ID at rows: 68
+Worker 120 node_ID at row 14 matches UAVNode ID at rows: 70
+Worker 121 node_ID at row 5 matches UAVNode ID at rows: 356
+Worker 121 node_ID at row 7 matches UAVNode ID at rows: 78
+Worker 121 node_ID at row 8 matches UAVNode ID at rows: 440
+Worker 121 node_ID at row 9 matches UAVNode ID at rows: 446
+Worker 121 node_ID at row 10 matches UAVNode ID at rows: 81
+Worker 121 node_ID at row 11 matches UAVNode ID at rows: 443
+Worker 121 node_ID at row 12 matches UAVNode ID at rows: 433
+Worker 121 node_ID at row 13 matches UAVNode ID at rows: 367
+Worker 122 node_ID at row 1 matches UAVNode ID at rows: 311
+Worker 122 node_ID at row 2 matches UAVNode ID at rows: 43
+Worker 122 node_ID at row 3 matches UAVNode ID at rows: 42
+Worker 122 node_ID at row 4 matches UAVNode ID at rows: 44
+Worker 122 node_ID at row 5 matches UAVNode ID at rows: 309
+Worker 122 node_ID at row 6 matches UAVNode ID at rows: 38
+Worker 122 node_ID at row 7 matches UAVNode ID at rows: 40
+Worker 122 node_ID at row 8 matches UAVNode ID at rows: 31
+Worker 122 node_ID at row 9 matches UAVNode ID at rows: 32
+Worker 122 node_ID at row 10 matches UAVNode ID at rows: 27
+Worker 122 node_ID at row 11 matches UAVNode ID at rows: 332
+Worker 122 node_ID at row 12 matches UAVNode ID at rows: 28
+Worker 122 node_ID at row 14 matches UAVNode ID at rows: 35
+Worker 122 node_ID at row 15 matches UAVNode ID at rows: 41
+Worker 124 node_ID at row 3 matches UAVNode ID at rows: 478
+Worker 124 node_ID at row 4 matches UAVNode ID at rows: 502
+Worker 124 node_ID at row 7 matches UAVNode ID at rows: 475
+Worker 124 node_ID at row 8 matches UAVNode ID at rows: 461
+Worker 124 node_ID at row 9 matches UAVNode ID at rows: 213
+Worker 124 node_ID at row 12 matches UAVNode ID at rows: 111
+Worker 124 node_ID at row 13 matches UAVNode ID at rows: 479
+Worker 124 node_ID at row 14 matches UAVNode ID at rows: 481
+Worker 125 node_ID at row 3 matches UAVNode ID at rows: 182
+Worker 125 node_ID at row 5 matches UAVNode ID at rows: 174
+Worker 125 node_ID at row 6 matches UAVNode ID at rows: 168
+Worker 125 node_ID at row 12 matches UAVNode ID at rows: 193
+Worker 126 node_ID at row 1 matches UAVNode ID at rows: 120
+Worker 126 node_ID at row 2 matches UAVNode ID at rows: 107
+Worker 126 node_ID at row 3 matches UAVNode ID at rows: 247
+Worker 126 node_ID at row 4 matches UAVNode ID at rows: 108
+Worker 126 node_ID at row 5 matches UAVNode ID at rows: 121
+Worker 126 node_ID at row 6 matches UAVNode ID at rows: 104
+Worker 126 node_ID at row 7 matches UAVNode ID at rows: 220
+Worker 126 node_ID at row 8 matches UAVNode ID at rows: 126
+Worker 126 node_ID at row 9 matches UAVNode ID at rows: 119
+Worker 126 node_ID at row 10 matches UAVNode ID at rows: 221
+Worker 126 node_ID at row 11 matches UAVNode ID at rows: 114
+Worker 126 node_ID at row 12 matches UAVNode ID at rows: 248
+Worker 126 node_ID at row 13 matches UAVNode ID at rows: 246
+Worker 126 node_ID at row 14 matches UAVNode ID at rows: 244
+Worker 126 node_ID at row 15 matches UAVNode ID at rows: 118
+Worker 127 node_ID at row 4 matches UAVNode ID at rows: 75
+Worker 128 node_ID at row 1 matches UAVNode ID at rows: 22
+Worker 128 node_ID at row 2 matches UAVNode ID at rows: 318
+Worker 128 node_ID at row 4 matches UAVNode ID at rows: 319
+Worker 128 node_ID at row 5 matches UAVNode ID at rows: 333
+Worker 128 node_ID at row 6 matches UAVNode ID at rows: 36
+Worker 128 node_ID at row 7 matches UAVNode ID at rows: 46
+Worker 128 node_ID at row 8 matches UAVNode ID at rows: 35
+Worker 128 node_ID at row 9 matches UAVNode ID at rows: 37
+Worker 128 node_ID at row 10 matches UAVNode ID at rows: 38
+Worker 128 node_ID at row 11 matches UAVNode ID at rows: 335
+Worker 128 node_ID at row 12 matches UAVNode ID at rows: 27
+Worker 128 node_ID at row 13 matches UAVNode ID at rows: 40
+Worker 128 node_ID at row 14 matches UAVNode ID at rows: 325
+Worker 128 node_ID at row 15 matches UAVNode ID at rows: 167
+Worker 129 node_ID at row 1 matches UAVNode ID at rows: 13
+Worker 129 node_ID at row 2 matches UAVNode ID at rows: 235
+Worker 129 node_ID at row 4 matches UAVNode ID at rows: 224
+Worker 129 node_ID at row 7 matches UAVNode ID at rows: 222
+Worker 129 node_ID at row 8 matches UAVNode ID at rows: 221
+Worker 129 node_ID at row 10 matches UAVNode ID at rows: 219
+Worker 129 node_ID at row 11 matches UAVNode ID at rows: 248
+Worker 129 node_ID at row 12 matches UAVNode ID at rows: 245
+Worker 129 node_ID at row 15 matches UAVNode ID at rows: 227
+Worker 130 node_ID at row 1 matches UAVNode ID at rows: 359
+Worker 130 node_ID at row 2 matches UAVNode ID at rows: 90
+Worker 130 node_ID at row 4 matches UAVNode ID at rows: 442
+Worker 130 node_ID at row 5 matches UAVNode ID at rows: 433
+Worker 130 node_ID at row 6 matches UAVNode ID at rows: 82
+Worker 130 node_ID at row 9 matches UAVNode ID at rows: 80
+Worker 130 node_ID at row 10 matches UAVNode ID at rows: 97
+Worker 130 node_ID at row 11 matches UAVNode ID at rows: 435
+Worker 130 node_ID at row 13 matches UAVNode ID at rows: 91
+Worker 130 node_ID at row 14 matches UAVNode ID at rows: 95
+Worker 131 node_ID at row 1 matches UAVNode ID at rows: 336
+Worker 131 node_ID at row 2 matches UAVNode ID at rows: 66
+Worker 131 node_ID at row 3 matches UAVNode ID at rows: 7
+Worker 131 node_ID at row 4 matches UAVNode ID at rows: 16
+Worker 131 node_ID at row 5 matches UAVNode ID at rows: 155
+Worker 131 node_ID at row 6 matches UAVNode ID at rows: 346
+Worker 131 node_ID at row 7 matches UAVNode ID at rows: 18
+Worker 131 node_ID at row 8 matches UAVNode ID at rows: 150
+Worker 131 node_ID at row 9 matches UAVNode ID at rows: 343
+Worker 131 node_ID at row 10 matches UAVNode ID at rows: 344
+Worker 131 node_ID at row 12 matches UAVNode ID at rows: 1
+Worker 131 node_ID at row 13 matches UAVNode ID at rows: 52
+Worker 131 node_ID at row 14 matches UAVNode ID at rows: 14
+Worker 132 node_ID at row 7 matches UAVNode ID at rows: 290
+Worker 133 node_ID at row 2 matches UAVNode ID at rows: 274
+Worker 133 node_ID at row 6 matches UAVNode ID at rows: 324
+Worker 134 node_ID at row 1 matches UAVNode ID at rows: 498
+Worker 134 node_ID at row 2 matches UAVNode ID at rows: 375
+Worker 134 node_ID at row 3 matches UAVNode ID at rows: 387
+Worker 134 node_ID at row 4 matches UAVNode ID at rows: 108
+Worker 134 node_ID at row 5 matches UAVNode ID at rows: 143
+Worker 134 node_ID at row 7 matches UAVNode ID at rows: 145
+Worker 134 node_ID at row 8 matches UAVNode ID at rows: 130
+Worker 134 node_ID at row 9 matches UAVNode ID at rows: 137
+Worker 134 node_ID at row 10 matches UAVNode ID at rows: 133
+Worker 134 node_ID at row 11 matches UAVNode ID at rows: 144
+Worker 134 node_ID at row 12 matches UAVNode ID at rows: 135
+Worker 134 node_ID at row 13 matches UAVNode ID at rows: 100
+Worker 134 node_ID at row 15 matches UAVNode ID at rows: 105
+Worker 135 node_ID at row 2 matches UAVNode ID at rows: 48
+Worker 135 node_ID at row 4 matches UAVNode ID at rows: 344
+Worker 135 node_ID at row 5 matches UAVNode ID at rows: 272
+Worker 135 node_ID at row 6 matches UAVNode ID at rows: 338
+Worker 135 node_ID at row 8 matches UAVNode ID at rows: 66
+Worker 135 node_ID at row 9 matches UAVNode ID at rows: 284
+Worker 135 node_ID at row 11 matches UAVNode ID at rows: 472
+Worker 135 node_ID at row 13 matches UAVNode ID at rows: 74
+Worker 135 node_ID at row 14 matches UAVNode ID at rows: 57
+Worker 136 node_ID at row 5 matches UAVNode ID at rows: 62
+Worker 136 node_ID at row 7 matches UAVNode ID at rows: 192
+Worker 136 node_ID at row 13 matches UAVNode ID at rows: 69
+Worker 137 node_ID at row 5 matches UAVNode ID at rows: 99
+Worker 137 node_ID at row 9 matches UAVNode ID at rows: 89
+Worker 138 node_ID at row 1 matches UAVNode ID at rows: 94
+Worker 138 node_ID at row 2 matches UAVNode ID at rows: 423
+Worker 138 node_ID at row 3 matches UAVNode ID at rows: 419
+Worker 138 node_ID at row 6 matches UAVNode ID at rows: 79
+Worker 138 node_ID at row 7 matches UAVNode ID at rows: 417
+Worker 138 node_ID at row 8 matches UAVNode ID at rows: 412
+Worker 138 node_ID at row 9 matches UAVNode ID at rows: 199
+Worker 138 node_ID at row 10 matches UAVNode ID at rows: 212
+Worker 138 node_ID at row 11 matches UAVNode ID at rows: 394
+Worker 138 node_ID at row 13 matches UAVNode ID at rows: 85
+Worker 138 node_ID at row 14 matches UAVNode ID at rows: 426
+Worker 138 node_ID at row 15 matches UAVNode ID at rows: 211
+Worker 139 node_ID at row 2 matches UAVNode ID at rows: 309
+Worker 139 node_ID at row 7 matches UAVNode ID at rows: 314
+Worker 139 node_ID at row 11 matches UAVNode ID at rows: 316
+Worker 140 node_ID at row 1 matches UAVNode ID at rows: 294
+Worker 140 node_ID at row 2 matches UAVNode ID at rows: 364
+Worker 140 node_ID at row 3 matches UAVNode ID at rows: 387
+Worker 140 node_ID at row 4 matches UAVNode ID at rows: 129
+Worker 140 node_ID at row 5 matches UAVNode ID at rows: 295
+Worker 140 node_ID at row 6 matches UAVNode ID at rows: 139
+Worker 140 node_ID at row 7 matches UAVNode ID at rows: 298
+Worker 140 node_ID at row 9 matches UAVNode ID at rows: 291
+Worker 140 node_ID at row 10 matches UAVNode ID at rows: 360
+Worker 140 node_ID at row 11 matches UAVNode ID at rows: 361
+Worker 140 node_ID at row 12 matches UAVNode ID at rows: 444
+Worker 140 node_ID at row 13 matches UAVNode ID at rows: 127
+Worker 140 node_ID at row 14 matches UAVNode ID at rows: 286
+Worker 140 node_ID at row 15 matches UAVNode ID at rows: 439
+Worker 141 node_ID at row 1 matches UAVNode ID at rows: 383
+Worker 141 node_ID at row 2 matches UAVNode ID at rows: 287
+Worker 141 node_ID at row 3 matches UAVNode ID at rows: 301
+Worker 141 node_ID at row 4 matches UAVNode ID at rows: 384
+Worker 141 node_ID at row 7 matches UAVNode ID at rows: 297
+Worker 141 node_ID at row 9 matches UAVNode ID at rows: 288
+Worker 141 node_ID at row 10 matches UAVNode ID at rows: 293
+Worker 141 node_ID at row 13 matches UAVNode ID at rows: 304
+Worker 141 node_ID at row 14 matches UAVNode ID at rows: 291
+Worker 141 node_ID at row 15 matches UAVNode ID at rows: 292
+Worker 142 node_ID at row 1 matches UAVNode ID at rows: 30
+Worker 142 node_ID at row 2 matches UAVNode ID at rows: 313
+Worker 142 node_ID at row 3 matches UAVNode ID at rows: 173
+Worker 142 node_ID at row 4 matches UAVNode ID at rows: 27
+Worker 142 node_ID at row 5 matches UAVNode ID at rows: 31
+Worker 142 node_ID at row 6 matches UAVNode ID at rows: 328
+Worker 142 node_ID at row 7 matches UAVNode ID at rows: 24
+Worker 142 node_ID at row 8 matches UAVNode ID at rows: 43
+Worker 142 node_ID at row 9 matches UAVNode ID at rows: 167
+Worker 142 node_ID at row 10 matches UAVNode ID at rows: 329
+Worker 142 node_ID at row 11 matches UAVNode ID at rows: 29
+Worker 142 node_ID at row 12 matches UAVNode ID at rows: 45
+Worker 142 node_ID at row 13 matches UAVNode ID at rows: 317
+Worker 142 node_ID at row 14 matches UAVNode ID at rows: 32
+Worker 143 node_ID at row 1 matches UAVNode ID at rows: 388
+Worker 143 node_ID at row 2 matches UAVNode ID at rows: 298
+Worker 143 node_ID at row 3 matches UAVNode ID at rows: 303
+Worker 143 node_ID at row 5 matches UAVNode ID at rows: 130
+Worker 143 node_ID at row 6 matches UAVNode ID at rows: 137
+Worker 143 node_ID at row 7 matches UAVNode ID at rows: 140
+Worker 143 node_ID at row 8 matches UAVNode ID at rows: 384
+Worker 143 node_ID at row 9 matches UAVNode ID at rows: 144
+Worker 143 node_ID at row 10 matches UAVNode ID at rows: 148
+Worker 143 node_ID at row 11 matches UAVNode ID at rows: 134
+Worker 143 node_ID at row 12 matches UAVNode ID at rows: 133
+Worker 143 node_ID at row 13 matches UAVNode ID at rows: 292
+Worker 143 node_ID at row 14 matches UAVNode ID at rows: 147
+Worker 143 node_ID at row 15 matches UAVNode ID at rows: 386
+Worker 144 node_ID at row 1 matches UAVNode ID at rows: 322
+Worker 144 node_ID at row 2 matches UAVNode ID at rows: 43
+Worker 144 node_ID at row 3 matches UAVNode ID at rows: 41
+Worker 144 node_ID at row 4 matches UAVNode ID at rows: 27
+Worker 144 node_ID at row 5 matches UAVNode ID at rows: 44
+Worker 144 node_ID at row 6 matches UAVNode ID at rows: 35
+Worker 144 node_ID at row 7 matches UAVNode ID at rows: 313
+Worker 144 node_ID at row 8 matches UAVNode ID at rows: 321
+Worker 144 node_ID at row 9 matches UAVNode ID at rows: 20
+Worker 144 node_ID at row 10 matches UAVNode ID at rows: 23
+Worker 144 node_ID at row 11 matches UAVNode ID at rows: 324
+Worker 144 node_ID at row 12 matches UAVNode ID at rows: 325
+Worker 144 node_ID at row 14 matches UAVNode ID at rows: 333
+Worker 144 node_ID at row 15 matches UAVNode ID at rows: 332
+Worker 145 node_ID at row 1 matches UAVNode ID at rows: 271
+Worker 145 node_ID at row 2 matches UAVNode ID at rows: 262
+Worker 145 node_ID at row 3 matches UAVNode ID at rows: 467
+Worker 145 node_ID at row 4 matches UAVNode ID at rows: 61
+Worker 145 node_ID at row 5 matches UAVNode ID at rows: 55
+Worker 145 node_ID at row 6 matches UAVNode ID at rows: 197
+Worker 145 node_ID at row 7 matches UAVNode ID at rows: 249
+Worker 145 node_ID at row 8 matches UAVNode ID at rows: 53
+Worker 145 node_ID at row 9 matches UAVNode ID at rows: 348
+Worker 145 node_ID at row 10 matches UAVNode ID at rows: 52
+Worker 145 node_ID at row 11 matches UAVNode ID at rows: 268
+Worker 145 node_ID at row 12 matches UAVNode ID at rows: 465
+Worker 145 node_ID at row 15 matches UAVNode ID at rows: 454
+Worker 146 node_ID at row 1 matches UAVNode ID at rows: 237
+Worker 146 node_ID at row 2 matches UAVNode ID at rows: 101
+Worker 146 node_ID at row 3 matches UAVNode ID at rows: 231
+Worker 146 node_ID at row 4 matches UAVNode ID at rows: 244
+Worker 146 node_ID at row 5 matches UAVNode ID at rows: 240
+Worker 146 node_ID at row 6 matches UAVNode ID at rows: 110
+Worker 146 node_ID at row 9 matches UAVNode ID at rows: 11
+Worker 146 node_ID at row 10 matches UAVNode ID at rows: 229
+Worker 146 node_ID at row 11 matches UAVNode ID at rows: 161
+Worker 146 node_ID at row 12 matches UAVNode ID at rows: 223
+Worker 146 node_ID at row 13 matches UAVNode ID at rows: 123
+Worker 146 node_ID at row 14 matches UAVNode ID at rows: 126
+Worker 146 node_ID at row 15 matches UAVNode ID at rows: 117
+Worker 147 node_ID at row 1 matches UAVNode ID at rows: 396
+Worker 147 node_ID at row 2 matches UAVNode ID at rows: 454
+Worker 147 node_ID at row 3 matches UAVNode ID at rows: 275
+Worker 147 node_ID at row 4 matches UAVNode ID at rows: 371
+Worker 147 node_ID at row 5 matches UAVNode ID at rows: 367
+Worker 147 node_ID at row 6 matches UAVNode ID at rows: 200
+Worker 147 node_ID at row 7 matches UAVNode ID at rows: 419
+Worker 147 node_ID at row 8 matches UAVNode ID at rows: 458
+Worker 147 node_ID at row 9 matches UAVNode ID at rows: 211
+Worker 147 node_ID at row 10 matches UAVNode ID at rows: 197
+Worker 147 node_ID at row 11 matches UAVNode ID at rows: 259
+Worker 147 node_ID at row 12 matches UAVNode ID at rows: 207
+Worker 147 node_ID at row 14 matches UAVNode ID at rows: 280
+Worker 147 node_ID at row 15 matches UAVNode ID at rows: 215
+Worker 148 node_ID at row 7 matches UAVNode ID at rows: 435
+Worker 149 node_ID at row 1 matches UAVNode ID at rows: 219
+Worker 149 node_ID at row 2 matches UAVNode ID at rows: 221
+Worker 149 node_ID at row 3 matches UAVNode ID at rows: 247
+Worker 149 node_ID at row 4 matches UAVNode ID at rows: 224
+Worker 149 node_ID at row 5 matches UAVNode ID at rows: 223
+Worker 149 node_ID at row 6 matches UAVNode ID at rows: 227
+Worker 149 node_ID at row 7 matches UAVNode ID at rows: 243
+Worker 149 node_ID at row 8 matches UAVNode ID at rows: 226
+Worker 149 node_ID at row 12 matches UAVNode ID at rows: 126
+Worker 149 node_ID at row 13 matches UAVNode ID at rows: 236
+Worker 149 node_ID at row 14 matches UAVNode ID at rows: 238
+Worker 150 node_ID at row 4 matches UAVNode ID at rows: 354
+Worker 150 node_ID at row 6 matches UAVNode ID at rows: 360
+Worker 150 node_ID at row 9 matches UAVNode ID at rows: 216
+Worker 150 node_ID at row 11 matches UAVNode ID at rows: 197
+Worker 150 node_ID at row 12 matches UAVNode ID at rows: 440
+Worker 150 node_ID at row 13 matches UAVNode ID at rows: 436
+Worker 150 node_ID at row 14 matches UAVNode ID at rows: 458
+Worker 151 node_ID at row 1 matches UAVNode ID at rows: 385
+Worker 151 node_ID at row 2 matches UAVNode ID at rows: 293
+Worker 151 node_ID at row 4 matches UAVNode ID at rows: 306
+Worker 151 node_ID at row 5 matches UAVNode ID at rows: 305
+Worker 151 node_ID at row 7 matches UAVNode ID at rows: 300
+Worker 151 node_ID at row 8 matches UAVNode ID at rows: 288
+Worker 151 node_ID at row 10 matches UAVNode ID at rows: 384
+Worker 151 node_ID at row 11 matches UAVNode ID at rows: 289
+Worker 151 node_ID at row 12 matches UAVNode ID at rows: 387
+Worker 151 node_ID at row 13 matches UAVNode ID at rows: 290
+Worker 151 node_ID at row 14 matches UAVNode ID at rows: 287
+Worker 152 node_ID at row 3 matches UAVNode ID at rows: 260
+Worker 152 node_ID at row 7 matches UAVNode ID at rows: 400
+Worker 152 node_ID at row 12 matches UAVNode ID at rows: 428
+Worker 153 node_ID at row 1 matches UAVNode ID at rows: 475
+Worker 153 node_ID at row 3 matches UAVNode ID at rows: 457
+Worker 153 node_ID at row 4 matches UAVNode ID at rows: 198
+Worker 153 node_ID at row 5 matches UAVNode ID at rows: 354
+Worker 153 node_ID at row 6 matches UAVNode ID at rows: 467
+Worker 153 node_ID at row 7 matches UAVNode ID at rows: 456
+Worker 153 node_ID at row 8 matches UAVNode ID at rows: 460
+Worker 153 node_ID at row 9 matches UAVNode ID at rows: 502
+Worker 153 node_ID at row 10 matches UAVNode ID at rows: 493
+Worker 153 node_ID at row 14 matches UAVNode ID at rows: 449
+Worker 154 node_ID at row 1 matches UAVNode ID at rows: 310
+Worker 154 node_ID at row 2 matches UAVNode ID at rows: 27
+Worker 154 node_ID at row 3 matches UAVNode ID at rows: 167
+Worker 154 node_ID at row 4 matches UAVNode ID at rows: 43
+Worker 154 node_ID at row 5 matches UAVNode ID at rows: 313
+Worker 154 node_ID at row 6 matches UAVNode ID at rows: 42
+Worker 154 node_ID at row 7 matches UAVNode ID at rows: 330
+Worker 154 node_ID at row 8 matches UAVNode ID at rows: 41
+Worker 154 node_ID at row 9 matches UAVNode ID at rows: 37
+Worker 154 node_ID at row 10 matches UAVNode ID at rows: 32
+Worker 154 node_ID at row 11 matches UAVNode ID at rows: 28
+Worker 154 node_ID at row 12 matches UAVNode ID at rows: 22
+Worker 154 node_ID at row 13 matches UAVNode ID at rows: 38
+Worker 154 node_ID at row 14 matches UAVNode ID at rows: 24
+Worker 154 node_ID at row 15 matches UAVNode ID at rows: 33
+Worker 155 node_ID at row 1 matches UAVNode ID at rows: 396
+Worker 155 node_ID at row 4 matches UAVNode ID at rows: 419
+Worker 155 node_ID at row 6 matches UAVNode ID at rows: 202
+Worker 155 node_ID at row 7 matches UAVNode ID at rows: 257
+Worker 155 node_ID at row 8 matches UAVNode ID at rows: 280
+Worker 155 node_ID at row 10 matches UAVNode ID at rows: 255
+Worker 155 node_ID at row 11 matches UAVNode ID at rows: 273
+Worker 155 node_ID at row 12 matches UAVNode ID at rows: 55
+Worker 155 node_ID at row 13 matches UAVNode ID at rows: 269
+Worker 156 node_ID at row 1 matches UAVNode ID at rows: 103
+Worker 156 node_ID at row 2 matches UAVNode ID at rows: 101
+Worker 156 node_ID at row 7 matches UAVNode ID at rows: 119
+Worker 156 node_ID at row 9 matches UAVNode ID at rows: 116
+Worker 156 node_ID at row 10 matches UAVNode ID at rows: 115
+Worker 156 node_ID at row 13 matches UAVNode ID at rows: 109
+Worker 157 node_ID at row 1 matches UAVNode ID at rows: 285
+Worker 157 node_ID at row 4 matches UAVNode ID at rows: 426
+Worker 157 node_ID at row 6 matches UAVNode ID at rows: 428
+Worker 157 node_ID at row 7 matches UAVNode ID at rows: 401
+Worker 157 node_ID at row 8 matches UAVNode ID at rows: 402
+Worker 157 node_ID at row 10 matches UAVNode ID at rows: 403
+Worker 157 node_ID at row 14 matches UAVNode ID at rows: 255
+Worker 158 node_ID at row 1 matches UAVNode ID at rows: 300
+Worker 158 node_ID at row 2 matches UAVNode ID at rows: 288
+Worker 159 node_ID at row 4 matches UAVNode ID at rows: 50
+Worker 159 node_ID at row 5 matches UAVNode ID at rows: 66
+Worker 159 node_ID at row 6 matches UAVNode ID at rows: 463
+Worker 159 node_ID at row 7 matches UAVNode ID at rows: 283
+Worker 159 node_ID at row 9 matches UAVNode ID at rows: 284
+Worker 159 node_ID at row 10 matches UAVNode ID at rows: 257
+Worker 159 node_ID at row 12 matches UAVNode ID at rows: 351
+Worker 159 node_ID at row 13 matches UAVNode ID at rows: 53
+Worker 159 node_ID at row 14 matches UAVNode ID at rows: 54
+Worker 161 node_ID at row 3 matches UAVNode ID at rows: 129
+Worker 161 node_ID at row 4 matches UAVNode ID at rows: 130
+Worker 161 node_ID at row 5 matches UAVNode ID at rows: 131
+Worker 161 node_ID at row 7 matches UAVNode ID at rows: 146
+Worker 161 node_ID at row 8 matches UAVNode ID at rows: 138
+Worker 161 node_ID at row 10 matches UAVNode ID at rows: 136
+Worker 161 node_ID at row 11 matches UAVNode ID at rows: 148
+Worker 161 node_ID at row 13 matches UAVNode ID at rows: 387
+Worker 161 node_ID at row 14 matches UAVNode ID at rows: 380
+Worker 162 node_ID at row 4 matches UAVNode ID at rows: 494
+Worker 162 node_ID at row 5 matches UAVNode ID at rows: 493
+Worker 162 node_ID at row 7 matches UAVNode ID at rows: 473
+Worker 162 node_ID at row 8 matches UAVNode ID at rows: 500
+Worker 162 node_ID at row 10 matches UAVNode ID at rows: 501
+Worker 162 node_ID at row 13 matches UAVNode ID at rows: 147
+Worker 162 node_ID at row 15 matches UAVNode ID at rows: 374
+Worker 163 node_ID at row 4 matches UAVNode ID at rows: 75
+Worker 163 node_ID at row 7 matches UAVNode ID at rows: 428
+Worker 163 node_ID at row 10 matches UAVNode ID at rows: 423
+Worker 163 node_ID at row 12 matches UAVNode ID at rows: 403
+Worker 164 node_ID at row 1 matches UAVNode ID at rows: 357
+Worker 164 node_ID at row 3 matches UAVNode ID at rows: 201
+Worker 164 node_ID at row 4 matches UAVNode ID at rows: 209
+Worker 164 node_ID at row 6 matches UAVNode ID at rows: 361
+Worker 164 node_ID at row 7 matches UAVNode ID at rows: 441
+Worker 164 node_ID at row 8 matches UAVNode ID at rows: 91
+Worker 164 node_ID at row 9 matches UAVNode ID at rows: 372
+Worker 164 node_ID at row 11 matches UAVNode ID at rows: 445
+Worker 164 node_ID at row 12 matches UAVNode ID at rows: 431
+Worker 164 node_ID at row 13 matches UAVNode ID at rows: 366
+Worker 164 node_ID at row 14 matches UAVNode ID at rows: 439
+Worker 165 node_ID at row 1 matches UAVNode ID at rows: 358
+Worker 165 node_ID at row 3 matches UAVNode ID at rows: 356
+Worker 165 node_ID at row 4 matches UAVNode ID at rows: 135
+Worker 165 node_ID at row 5 matches UAVNode ID at rows: 131
+Worker 165 node_ID at row 6 matches UAVNode ID at rows: 200
+Worker 165 node_ID at row 7 matches UAVNode ID at rows: 137
+Worker 165 node_ID at row 8 matches UAVNode ID at rows: 377
+Worker 165 node_ID at row 12 matches UAVNode ID at rows: 140
+Worker 165 node_ID at row 13 matches UAVNode ID at rows: 375
+Worker 166 node_ID at row 4 matches UAVNode ID at rows: 78
+Worker 166 node_ID at row 10 matches UAVNode ID at rows: 86
+Worker 166 node_ID at row 12 matches UAVNode ID at rows: 410
+Worker 166 node_ID at row 13 matches UAVNode ID at rows: 413
+Worker 167 node_ID at row 1 matches UAVNode ID at rows: 134
+Worker 167 node_ID at row 2 matches UAVNode ID at rows: 355
+Worker 167 node_ID at row 3 matches UAVNode ID at rows: 374
+Worker 167 node_ID at row 4 matches UAVNode ID at rows: 304
+Worker 167 node_ID at row 5 matches UAVNode ID at rows: 131
+Worker 167 node_ID at row 6 matches UAVNode ID at rows: 138
+Worker 167 node_ID at row 7 matches UAVNode ID at rows: 448
+Worker 167 node_ID at row 8 matches UAVNode ID at rows: 145
+Worker 167 node_ID at row 9 matches UAVNode ID at rows: 442
+Worker 167 node_ID at row 10 matches UAVNode ID at rows: 142
+Worker 167 node_ID at row 13 matches UAVNode ID at rows: 305
+Worker 167 node_ID at row 14 matches UAVNode ID at rows: 375
+Worker 168 node_ID at row 2 matches UAVNode ID at rows: 71
+Worker 168 node_ID at row 3 matches UAVNode ID at rows: 73
+Worker 168 node_ID at row 4 matches UAVNode ID at rows: 450
+Worker 168 node_ID at row 5 matches UAVNode ID at rows: 274
+Worker 168 node_ID at row 6 matches UAVNode ID at rows: 273
+Worker 168 node_ID at row 7 matches UAVNode ID at rows: 455
+Worker 168 node_ID at row 8 matches UAVNode ID at rows: 275
+Worker 168 node_ID at row 9 matches UAVNode ID at rows: 61
+Worker 168 node_ID at row 10 matches UAVNode ID at rows: 62
+Worker 168 node_ID at row 11 matches UAVNode ID at rows: 57
+Worker 168 node_ID at row 12 matches UAVNode ID at rows: 251
+Worker 168 node_ID at row 13 matches UAVNode ID at rows: 54
+Worker 168 node_ID at row 14 matches UAVNode ID at rows: 262
+Worker 169 node_ID at row 1 matches UAVNode ID at rows: 75
+Worker 169 node_ID at row 2 matches UAVNode ID at rows: 96
+Worker 169 node_ID at row 3 matches UAVNode ID at rows: 90
+Worker 169 node_ID at row 4 matches UAVNode ID at rows: 361
+Worker 169 node_ID at row 5 matches UAVNode ID at rows: 80
+Worker 169 node_ID at row 6 matches UAVNode ID at rows: 436
+Worker 169 node_ID at row 7 matches UAVNode ID at rows: 443
+Worker 169 node_ID at row 8 matches UAVNode ID at rows: 91
+Worker 169 node_ID at row 9 matches UAVNode ID at rows: 445
+Worker 169 node_ID at row 10 matches UAVNode ID at rows: 366
+Worker 169 node_ID at row 11 matches UAVNode ID at rows: 302
+Worker 169 node_ID at row 12 matches UAVNode ID at rows: 89
+Worker 169 node_ID at row 13 matches UAVNode ID at rows: 99
+Worker 169 node_ID at row 14 matches UAVNode ID at rows: 377
+Worker 170 node_ID at row 1 matches UAVNode ID at rows: 266
+Worker 170 node_ID at row 2 matches UAVNode ID at rows: 417
+Worker 170 node_ID at row 3 matches UAVNode ID at rows: 202
+Worker 170 node_ID at row 5 matches UAVNode ID at rows: 209
+Worker 170 node_ID at row 6 matches UAVNode ID at rows: 259
+Worker 170 node_ID at row 7 matches UAVNode ID at rows: 366
+Worker 170 node_ID at row 9 matches UAVNode ID at rows: 204
+Worker 170 node_ID at row 10 matches UAVNode ID at rows: 458
+Worker 170 node_ID at row 11 matches UAVNode ID at rows: 279
+Worker 170 node_ID at row 12 matches UAVNode ID at rows: 214
+Worker 170 node_ID at row 13 matches UAVNode ID at rows: 249
+Worker 170 node_ID at row 14 matches UAVNode ID at rows: 275
+Worker 170 node_ID at row 15 matches UAVNode ID at rows: 210
+Worker 172 node_ID at row 1 matches UAVNode ID at rows: 315
+Worker 172 node_ID at row 4 matches UAVNode ID at rows: 323
+Worker 172 node_ID at row 6 matches UAVNode ID at rows: 331
+Worker 172 node_ID at row 7 matches UAVNode ID at rows: 317
+Worker 173 node_ID at row 1 matches UAVNode ID at rows: 351
+Worker 173 node_ID at row 3 matches UAVNode ID at rows: 9
+Worker 173 node_ID at row 6 matches UAVNode ID at rows: 64
+Worker 174 node_ID at row 2 matches UAVNode ID at rows: 240
+Worker 174 node_ID at row 3 matches UAVNode ID at rows: 219
+Worker 174 node_ID at row 6 matches UAVNode ID at rows: 224
+Worker 174 node_ID at row 8 matches UAVNode ID at rows: 13
+Worker 174 node_ID at row 9 matches UAVNode ID at rows: 237
+Worker 174 node_ID at row 11 matches UAVNode ID at rows: 226
+Worker 174 node_ID at row 13 matches UAVNode ID at rows: 239
+Worker 174 node_ID at row 14 matches UAVNode ID at rows: 241
+Worker 176 node_ID at row 1 matches UAVNode ID at rows: 355
+Worker 176 node_ID at row 2 matches UAVNode ID at rows: 135
+Worker 176 node_ID at row 3 matches UAVNode ID at rows: 387
+Worker 176 node_ID at row 4 matches UAVNode ID at rows: 438
+Worker 176 node_ID at row 6 matches UAVNode ID at rows: 356
+Worker 176 node_ID at row 7 matches UAVNode ID at rows: 442
+Worker 176 node_ID at row 8 matches UAVNode ID at rows: 306
+Worker 176 node_ID at row 9 matches UAVNode ID at rows: 429
+Worker 176 node_ID at row 10 matches UAVNode ID at rows: 365
+Worker 176 node_ID at row 12 matches UAVNode ID at rows: 353
+Worker 176 node_ID at row 13 matches UAVNode ID at rows: 443
+Worker 176 node_ID at row 14 matches UAVNode ID at rows: 363
+Worker 176 node_ID at row 15 matches UAVNode ID at rows: 128
+Worker 179 node_ID at row 1 matches UAVNode ID at rows: 76
+Worker 179 node_ID at row 2 matches UAVNode ID at rows: 440
+Worker 179 node_ID at row 3 matches UAVNode ID at rows: 430
+Worker 179 node_ID at row 4 matches UAVNode ID at rows: 361
+Worker 179 node_ID at row 6 matches UAVNode ID at rows: 208
+Worker 179 node_ID at row 7 matches UAVNode ID at rows: 431
+Worker 179 node_ID at row 8 matches UAVNode ID at rows: 94
+Worker 179 node_ID at row 11 matches UAVNode ID at rows: 368
+Worker 179 node_ID at row 14 matches UAVNode ID at rows: 445
+Worker 180 node_ID at row 2 matches UAVNode ID at rows: 125
+Worker 180 node_ID at row 3 matches UAVNode ID at rows: 101
+Worker 180 node_ID at row 4 matches UAVNode ID at rows: 154
+Worker 180 node_ID at row 5 matches UAVNode ID at rows: 221
+Worker 180 node_ID at row 6 matches UAVNode ID at rows: 226
+Worker 180 node_ID at row 7 matches UAVNode ID at rows: 238
+Worker 180 node_ID at row 8 matches UAVNode ID at rows: 247
+Worker 180 node_ID at row 9 matches UAVNode ID at rows: 103
+Worker 180 node_ID at row 10 matches UAVNode ID at rows: 219
+Worker 180 node_ID at row 11 matches UAVNode ID at rows: 120
+Worker 180 node_ID at row 12 matches UAVNode ID at rows: 223
+Worker 180 node_ID at row 13 matches UAVNode ID at rows: 151
+Worker 181 node_ID at row 3 matches UAVNode ID at rows: 284
+Worker 181 node_ID at row 5 matches UAVNode ID at rows: 250
+Worker 181 node_ID at row 6 matches UAVNode ID at rows: 53
+Worker 181 node_ID at row 7 matches UAVNode ID at rows: 61
+Worker 181 node_ID at row 8 matches UAVNode ID at rows: 253
+Worker 181 node_ID at row 10 matches UAVNode ID at rows: 273
+Worker 181 node_ID at row 12 matches UAVNode ID at rows: 55
+Worker 181 node_ID at row 13 matches UAVNode ID at rows: 285
+Worker 183 node_ID at row 2 matches UAVNode ID at rows: 253
+Worker 183 node_ID at row 3 matches UAVNode ID at rows: 417
+Worker 183 node_ID at row 5 matches UAVNode ID at rows: 282
+Worker 183 node_ID at row 7 matches UAVNode ID at rows: 55
+Worker 183 node_ID at row 9 matches UAVNode ID at rows: 285
+Worker 183 node_ID at row 11 matches UAVNode ID at rows: 258
+Worker 183 node_ID at row 12 matches UAVNode ID at rows: 284
+Worker 183 node_ID at row 14 matches UAVNode ID at rows: 70
+Worker 183 node_ID at row 15 matches UAVNode ID at rows: 415
+Worker 184 node_ID at row 1 matches UAVNode ID at rows: 211
+Worker 184 node_ID at row 3 matches UAVNode ID at rows: 207
+Worker 184 node_ID at row 4 matches UAVNode ID at rows: 203
+Worker 184 node_ID at row 7 matches UAVNode ID at rows: 362
+Worker 184 node_ID at row 8 matches UAVNode ID at rows: 357
+Worker 184 node_ID at row 9 matches UAVNode ID at rows: 91
+Worker 184 node_ID at row 10 matches UAVNode ID at rows: 218
+Worker 184 node_ID at row 12 matches UAVNode ID at rows: 197
+Worker 184 node_ID at row 15 matches UAVNode ID at rows: 79
+Worker 185 node_ID at row 1 matches UAVNode ID at rows: 211
+Worker 185 node_ID at row 2 matches UAVNode ID at rows: 478
+Worker 185 node_ID at row 3 matches UAVNode ID at rows: 476
+Worker 185 node_ID at row 4 matches UAVNode ID at rows: 467
+Worker 185 node_ID at row 5 matches UAVNode ID at rows: 210
+Worker 185 node_ID at row 7 matches UAVNode ID at rows: 372
+Worker 185 node_ID at row 8 matches UAVNode ID at rows: 484
+Worker 185 node_ID at row 10 matches UAVNode ID at rows: 357
+Worker 185 node_ID at row 11 matches UAVNode ID at rows: 371
+Worker 185 node_ID at row 12 matches UAVNode ID at rows: 483
+Worker 185 node_ID at row 13 matches UAVNode ID at rows: 475
+Worker 186 node_ID at row 1 matches UAVNode ID at rows: 411
+Worker 186 node_ID at row 3 matches UAVNode ID at rows: 419
+Worker 186 node_ID at row 6 matches UAVNode ID at rows: 414
+Worker 186 node_ID at row 7 matches UAVNode ID at rows: 428
+Worker 186 node_ID at row 8 matches UAVNode ID at rows: 412
+Worker 186 node_ID at row 11 matches UAVNode ID at rows: 415
+Worker 186 node_ID at row 12 matches UAVNode ID at rows: 425
+Worker 186 node_ID at row 13 matches UAVNode ID at rows: 392
+Worker 187 node_ID at row 8 matches UAVNode ID at rows: 331
+Worker 188 node_ID at row 1 matches UAVNode ID at rows: 282
+Worker 188 node_ID at row 2 matches UAVNode ID at rows: 273
+Worker 188 node_ID at row 3 matches UAVNode ID at rows: 486
+Worker 188 node_ID at row 4 matches UAVNode ID at rows: 216
+Worker 188 node_ID at row 5 matches UAVNode ID at rows: 453
+Worker 188 node_ID at row 7 matches UAVNode ID at rows: 485
+Worker 188 node_ID at row 8 matches UAVNode ID at rows: 283
+Worker 188 node_ID at row 9 matches UAVNode ID at rows: 472
+Worker 188 node_ID at row 10 matches UAVNode ID at rows: 157
+Worker 188 node_ID at row 11 matches UAVNode ID at rows: 470
+Worker 188 node_ID at row 13 matches UAVNode ID at rows: 150
+Worker 188 node_ID at row 14 matches UAVNode ID at rows: 451
+Worker 189 node_ID at row 1 matches UAVNode ID at rows: 180
+Worker 189 node_ID at row 5 matches UAVNode ID at rows: 186
+Worker 189 node_ID at row 8 matches UAVNode ID at rows: 191
+Worker 189 node_ID at row 9 matches UAVNode ID at rows: 188
+Worker 189 node_ID at row 10 matches UAVNode ID at rows: 172
+Worker 189 node_ID at row 11 matches UAVNode ID at rows: 169
+Worker 189 node_ID at row 12 matches UAVNode ID at rows: 192
+Worker 189 node_ID at row 15 matches UAVNode ID at rows: 166
+Worker 190 node_ID at row 1 matches UAVNode ID at rows: 309
+Worker 190 node_ID at row 2 matches UAVNode ID at rows: 311
+Worker 190 node_ID at row 3 matches UAVNode ID at rows: 313
+Worker 190 node_ID at row 4 matches UAVNode ID at rows: 29
+Worker 190 node_ID at row 5 matches UAVNode ID at rows: 20
+Worker 190 node_ID at row 6 matches UAVNode ID at rows: 33
+Worker 190 node_ID at row 7 matches UAVNode ID at rows: 24
+Worker 190 node_ID at row 9 matches UAVNode ID at rows: 310
+Worker 190 node_ID at row 11 matches UAVNode ID at rows: 21
+Worker 190 node_ID at row 12 matches UAVNode ID at rows: 323
+Worker 190 node_ID at row 13 matches UAVNode ID at rows: 42
+Worker 190 node_ID at row 14 matches UAVNode ID at rows: 46
+Worker 191 node_ID at row 3 matches UAVNode ID at rows: 241
+Worker 191 node_ID at row 4 matches UAVNode ID at rows: 227
+Worker 191 node_ID at row 5 matches UAVNode ID at rows: 235
+Worker 191 node_ID at row 11 matches UAVNode ID at rows: 224
+Worker 191 node_ID at row 12 matches UAVNode ID at rows: 222
+Worker 191 node_ID at row 13 matches UAVNode ID at rows: 223
+Worker 192 node_ID at row 7 matches UAVNode ID at rows: 184
+Worker 192 node_ID at row 8 matches UAVNode ID at rows: 30
+Worker 192 node_ID at row 9 matches UAVNode ID at rows: 45
+Worker 192 node_ID at row 11 matches UAVNode ID at rows: 195
+Worker 192 node_ID at row 12 matches UAVNode ID at rows: 42
+Worker 192 node_ID at row 14 matches UAVNode ID at rows: 186
+Worker 192 node_ID at row 15 matches UAVNode ID at rows: 194
+Worker 193 node_ID at row 4 matches UAVNode ID at rows: 75
+Worker 193 node_ID at row 5 matches UAVNode ID at rows: 82
+Worker 193 node_ID at row 8 matches UAVNode ID at rows: 93
+Worker 193 node_ID at row 11 matches UAVNode ID at rows: 394
+Worker 193 node_ID at row 14 matches UAVNode ID at rows: 94
+Worker 194 node_ID at row 9 matches UAVNode ID at rows: 178
+Worker 195 node_ID at row 1 matches UAVNode ID at rows: 30
+Worker 195 node_ID at row 3 matches UAVNode ID at rows: 195
+Worker 195 node_ID at row 8 matches UAVNode ID at rows: 33
+Worker 195 node_ID at row 9 matches UAVNode ID at rows: 188
+Worker 195 node_ID at row 12 matches UAVNode ID at rows: 23
+Worker 195 node_ID at row 14 matches UAVNode ID at rows: 27
+Worker 196 node_ID at row 1 matches UAVNode ID at rows: 500
+Worker 196 node_ID at row 2 matches UAVNode ID at rows: 150
+Worker 196 node_ID at row 3 matches UAVNode ID at rows: 491
+Worker 196 node_ID at row 4 matches UAVNode ID at rows: 493
+Worker 196 node_ID at row 5 matches UAVNode ID at rows: 226
+Worker 196 node_ID at row 6 matches UAVNode ID at rows: 474
+Worker 196 node_ID at row 7 matches UAVNode ID at rows: 495
+Worker 196 node_ID at row 8 matches UAVNode ID at rows: 122
+Worker 196 node_ID at row 9 matches UAVNode ID at rows: 477
+Worker 196 node_ID at row 10 matches UAVNode ID at rows: 220
+Worker 196 node_ID at row 11 matches UAVNode ID at rows: 101
+Worker 196 node_ID at row 12 matches UAVNode ID at rows: 228
+Worker 196 node_ID at row 14 matches UAVNode ID at rows: 501
+Worker 196 node_ID at row 15 matches UAVNode ID at rows: 111
+Worker 197 node_ID at row 1 matches UAVNode ID at rows: 89
+Worker 197 node_ID at row 3 matches UAVNode ID at rows: 430
+Worker 197 node_ID at row 4 matches UAVNode ID at rows: 436
+Worker 197 node_ID at row 6 matches UAVNode ID at rows: 433
+Worker 197 node_ID at row 7 matches UAVNode ID at rows: 429
+Worker 197 node_ID at row 9 matches UAVNode ID at rows: 95
+Worker 197 node_ID at row 11 matches UAVNode ID at rows: 79
+Worker 197 node_ID at row 12 matches UAVNode ID at rows: 440
+Worker 197 node_ID at row 13 matches UAVNode ID at rows: 97
+Worker 197 node_ID at row 14 matches UAVNode ID at rows: 435
+Worker 198 node_ID at row 3 matches UAVNode ID at rows: 306
+Worker 198 node_ID at row 9 matches UAVNode ID at rows: 432
+Worker 198 node_ID at row 12 matches UAVNode ID at rows: 301
+Worker 198 node_ID at row 13 matches UAVNode ID at rows: 289
+Worker 200 node_ID at row 1 matches UAVNode ID at rows: 80
+Worker 200 node_ID at row 2 matches UAVNode ID at rows: 444
+Worker 200 node_ID at row 3 matches UAVNode ID at rows: 299
+Worker 200 node_ID at row 5 matches UAVNode ID at rows: 293
+Worker 200 node_ID at row 6 matches UAVNode ID at rows: 447
+Worker 200 node_ID at row 9 matches UAVNode ID at rows: 305
+Worker 200 node_ID at row 10 matches UAVNode ID at rows: 95
+Worker 1 matches: 10
+Worker 2 matches: 12
+Worker 3 matches: 6
+Worker 4 matches: 6
+Worker 5 matches: 4
+Worker 6 matches: 9
+Worker 7 matches: 3
+Worker 8 matches: 12
+Worker 9 matches: 8
+Worker 10 matches: 4
+Worker 11 matches: 5
+Worker 12 matches: 11
+Worker 13 matches: 14
+Worker 14 matches: 1
+Worker 15 matches: 4
+Worker 16 matches: 8
+Worker 17 matches: 14
+Worker 18 matches: 3
+Worker 19 matches: 5
+Worker 20 matches: 8
+Worker 21 matches: 1
+Worker 22 matches: 0
+Worker 23 matches: 10
+Worker 24 matches: 12
+Worker 25 matches: 13
+Worker 26 matches: 0
+Worker 27 matches: 14
+Worker 28 matches: 4
+Worker 29 matches: 9
+Worker 30 matches: 2
+Worker 31 matches: 1
+Worker 32 matches: 0
+Worker 33 matches: 15
+Worker 34 matches: 15
+Worker 35 matches: 7
+Worker 36 matches: 1
+Worker 37 matches: 14
+Worker 38 matches: 8
+Worker 39 matches: 1
+Worker 40 matches: 0
+Worker 41 matches: 4
+Worker 42 matches: 11
+Worker 43 matches: 0
+Worker 44 matches: 9
+Worker 45 matches: 3
+Worker 46 matches: 0
+Worker 47 matches: 0
+Worker 48 matches: 1
+Worker 49 matches: 5
+Worker 50 matches: 9
+Worker 51 matches: 3
+Worker 52 matches: 10
+Worker 53 matches: 14
+Worker 54 matches: 0
+Worker 55 matches: 12
+Worker 56 matches: 4
+Worker 57 matches: 0
+Worker 58 matches: 5
+Worker 59 matches: 10
+Worker 60 matches: 5
+Worker 61 matches: 14
+Worker 62 matches: 7
+Worker 63 matches: 11
+Worker 64 matches: 14
+Worker 65 matches: 0
+Worker 66 matches: 8
+Worker 67 matches: 13
+Worker 68 matches: 0
+Worker 69 matches: 8
+Worker 70 matches: 8
+Worker 71 matches: 1
+Worker 72 matches: 0
+Worker 73 matches: 6
+Worker 74 matches: 5
+Worker 75 matches: 12
+Worker 76 matches: 5
+Worker 77 matches: 0
+Worker 78 matches: 14
+Worker 79 matches: 9
+Worker 80 matches: 4
+Worker 81 matches: 10
+Worker 82 matches: 14
+Worker 83 matches: 6
+Worker 84 matches: 14
+Worker 85 matches: 14
+Worker 86 matches: 1
+Worker 87 matches: 0
+Worker 88 matches: 6
+Worker 89 matches: 3
+Worker 90 matches: 10
+Worker 91 matches: 14
+Worker 92 matches: 9
+Worker 93 matches: 2
+Worker 94 matches: 10
+Worker 95 matches: 4
+Worker 96 matches: 15
+Worker 97 matches: 10
+Worker 98 matches: 9
+Worker 99 matches: 3
+Worker 100 matches: 11
+Worker 101 matches: 3
+Worker 102 matches: 11
+Worker 103 matches: 12
+Worker 104 matches: 0
+Worker 105 matches: 5
+Worker 106 matches: 11
+Worker 107 matches: 8
+Worker 108 matches: 15
+Worker 109 matches: 7
+Worker 110 matches: 9
+Worker 111 matches: 14
+Worker 112 matches: 13
+Worker 113 matches: 8
+Worker 114 matches: 10
+Worker 115 matches: 8
+Worker 116 matches: 14
+Worker 117 matches: 1
+Worker 118 matches: 14
+Worker 119 matches: 6
+Worker 120 matches: 4
+Worker 121 matches: 8
+Worker 122 matches: 14
+Worker 123 matches: 0
+Worker 124 matches: 8
+Worker 125 matches: 4
+Worker 126 matches: 15
+Worker 127 matches: 1
+Worker 128 matches: 14
+Worker 129 matches: 9
+Worker 130 matches: 10
+Worker 131 matches: 13
+Worker 132 matches: 1
+Worker 133 matches: 2
+Worker 134 matches: 13
+Worker 135 matches: 9
+Worker 136 matches: 3
+Worker 137 matches: 2
+Worker 138 matches: 12
+Worker 139 matches: 3
+Worker 140 matches: 14
+Worker 141 matches: 10
+Worker 142 matches: 14
+Worker 143 matches: 14
+Worker 144 matches: 14
+Worker 145 matches: 13
+Worker 146 matches: 13
+Worker 147 matches: 14
+Worker 148 matches: 1
+Worker 149 matches: 11
+Worker 150 matches: 7
+Worker 151 matches: 11
+Worker 152 matches: 3
+Worker 153 matches: 10
+Worker 154 matches: 15
+Worker 155 matches: 9
+Worker 156 matches: 6
+Worker 157 matches: 7
+Worker 158 matches: 2
+Worker 159 matches: 9
+Worker 160 matches: 0
+Worker 161 matches: 9
+Worker 162 matches: 7
+Worker 163 matches: 4
+Worker 164 matches: 11
+Worker 165 matches: 9
+Worker 166 matches: 4
+Worker 167 matches: 12
+Worker 168 matches: 13
+Worker 169 matches: 14
+Worker 170 matches: 13
+Worker 171 matches: 0
+Worker 172 matches: 4
+Worker 173 matches: 3
+Worker 174 matches: 8
+Worker 175 matches: 0
+Worker 176 matches: 13
+Worker 177 matches: 0
+Worker 178 matches: 0
+Worker 179 matches: 9
+Worker 180 matches: 12
+Worker 181 matches: 8
+Worker 182 matches: 0
+Worker 183 matches: 9
+Worker 184 matches: 9
+Worker 185 matches: 11
+Worker 186 matches: 8
+Worker 187 matches: 1
+Worker 188 matches: 12
+Worker 189 matches: 8
+Worker 190 matches: 12
+Worker 191 matches: 6
+Worker 192 matches: 7
+Worker 193 matches: 5
+Worker 194 matches: 1
+Worker 195 matches: 6
+Worker 196 matches: 14
+Worker 197 matches: 10
+Worker 198 matches: 4
+Worker 199 matches: 0
+Worker 200 matches: 7
